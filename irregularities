@@ -1,0 +1,80 @@
+165 - 206 two additional empty columns for some reason
+
+2070 - score is 0a0
+
+a lot of instances of a team winning in penalties and for some reason this info is in the team name instead of score
+
+3053 - some weird thing, idk what is this, but i consider this a tie
+
+4597, 4599 - Jura Sud Foot (both counted as win)
+
+4671
+4683
+3053
+3864
+
+5335 Chomo instead of Como
+3426 Arminina Hannover instead of Arminia
+Logrones is sometimes Longrones for both CD Logrones and UD Logrones
+Budapest Honved FC or Budapest Honved SC(?)
+
+Typo in FC Sochaux-Montbeliard
+4666 Typo in Hagenau, should be Haguenau
+2998 typo in RNK Zmaj Makarska
+3172 typo in Biel-Bienne
+890 typo in Sheffield United
+3277 typo in FC Zurich
+3798 Elbar instead of Eibar
+3513 Eintracht Bruanschweig instead of Eintracht Braunschweig
+3875 Athletic Madrid instead of Athletico Madrid
+4078, 4079 Deportiva de la Coruna instead Deportivo
+4118, 4208, 4222 Typo in Compostela
+4943 typo in AS Frontignan AC
+5074 should be AS Frontignan AC
+4674, 4675 Typo in Reipertswiller
+613 Typo in Millwall Athletic
+2090 Typo in Charlton Athletic
+2265 Typo in Fulham
+2876, 3439, 3456, 3463, 3475 Typo in Gelsenkirchen
+
+A lot of places with Celta de Viga instead of Vigo
+A few places with West Browmich Albion instead of West Bromwich Albion
+A lot of places with Castlenau Cres FC instead of Castelnau Cres FC
+A few places with Kaiserlautern instead of Kaiserslautern
+
+are Southall and Southall Park 2 separate clubs
+Old Forresters instead of Old Foresters
+
+
+2768-2799   Date of match is fucked up, i removed first numer so i can actually calculate time, if its needed ill bring it back
+3236        date of match is 2 days, removed first one
+
+---------------------- WINNERS LIST---------------
+Typo in Girondins Bordeaux
+Racing Besancon or Besancon Football?
+JSCBA Nimes or JSBCA Nimes?
+Typo in Galatasaray SK
+Typo in Como 1907
+Typo in Arminia Bielefeld
+Typo in CF Ciudad de Murcia
+Typo in Bayer Uerdingen
+Typo in FK Zeljeznicar Sarajevo
+Typo in Eintracht Braunschweig
+should be CF Cala Millor, not CD Cala Millor
+Typo in Montpellier Herault SC and Montpellier Herault SC B
+Typo in La Grande Motte
+Typo in CSO Amneville
+Typo in DSC Wanne-Eickel
+Typo in FCSR Haguenau B
+Typo in SG Union Solingen
+Typo in FC Biel-Bienne
+Typo in 1. FC Nuremberg
+Typo in Castelnau Cres FC
+
+RC Strasbourg Alsace is separate from RC Strasbourg Alsace B + Racing Strasbourg B (?) not sure if thats right
+i cant find CD Logrones win
+i cant find SV Weisenau win
+
+Why there isnt FK Rudar Prijedor on the winners list?
+Why there isnt FC Obermodern on the winners list?
+

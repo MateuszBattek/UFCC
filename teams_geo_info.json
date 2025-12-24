@@ -1,0 +1,3834 @@
+{
+    "Upton Park": {
+        "country": "England",
+        "city": "London"
+    },
+    "Clapham Rovers": {
+        "country": "England",
+        "city": "London"
+    },
+    "Wanderers": {
+        "country": "England",
+        "city": "London"
+    },
+    "Crystal Palace": {
+        "country": "England",
+        "city": "London"
+    },
+    "Queen's Park, Glasgow": {
+        "country": "Scotland",
+        "city": "Glasgow"
+    },
+    "Royal Engineers": {
+        "country": "England",
+        "city": "Chatham"
+    },
+    "Oxford University": {
+        "country": "England",
+        "city": "Oxford"
+    },
+    "Southall": {
+        "country": "England",
+        "city": "London"
+    },
+    "Trojans": {
+        "country": "England",
+        "city": "London"
+    },
+    "Brondesbury": {
+        "country": "England",
+        "city": "London"
+    },
+    "Windsor Home Park": {
+        "country": "England",
+        "city": "Windsor"
+    },
+    "Old Etonians": {
+        "country": "England",
+        "city": "Eton"
+    },
+    "High Wycombe": {
+        "country": "England",
+        "city": "High Wycombe"
+    },
+    "Panthers": {
+        "country": "England",
+        "city": "Sturminster Newton"
+    },
+    "Swifts": {
+        "country": "England",
+        "city": "Slough"
+    },
+    "Saffron Walden": {
+        "country": "England",
+        "city": "Saffron Walden"
+    },
+    "Pilgrims": {
+        "country": "England",
+        "city": "London"
+    },
+    "Cambridge University": {
+        "country": "England",
+        "city": "Cambridge"
+    },
+    "Barnes": {
+        "country": "England",
+        "city": "London"
+    },
+    "Sheffield": {
+        "country": "England",
+        "city": "Sheffield"
+    },
+    "Reading": {
+        "country": "England",
+        "city": "Reading"
+    },
+    "Minerva": {
+        "country": "England",
+        "city": "London"
+    },
+    "Darwen": {
+        "country": "England",
+        "city": "Darwen"
+    },
+    "Nottingham Forest": {
+        "country": "England",
+        "city": "Nottingham"
+    },
+    "West End": {
+        "country": "England",
+        "city": "London"
+    },
+    "Finchley": {
+        "country": "England",
+        "city": "London"
+    },
+    "Old Carthusians": {
+        "country": "England",
+        "city": "Godalming"
+    },
+    "Esher Leopold": {
+        "country": "England",
+        "city": "Esher"
+    },
+    "Old Foresters": {
+        "country": "England",
+        "city": "London"
+    },
+    "Great Marlow": {
+        "country": "England",
+        "city": "Marlow"
+    },
+    "Blackburn Rovers": {
+        "country": "England",
+        "city": "Blackburn"
+    },
+    "Brentwood": {
+        "country": "England",
+        "city": "Brentwood"
+    },
+    "Rochester": {
+        "country": "England",
+        "city": "Rochester"
+    },
+    "Hendon": {
+        "country": "England",
+        "city": "London"
+    },
+    "Notts County": {
+        "country": "England",
+        "city": "Nottingham"
+    },
+    "Blackburn Olympic": {
+        "country": "England",
+        "city": "Blackburn"
+    },
+    "Darwen Ramblers": {
+        "country": "England",
+        "city": "Darwen"
+    },
+    "Old Wykehamists": {
+        "country": "England",
+        "city": "Winchester"
+    },
+    "Northwich Victoria": {
+        "country": "England",
+        "city": "Runcorn"
+    },
+    "Vale of Leven": {
+        "country": "Scotland",
+        "city": "Alexandria"
+    },
+    "Rossendale": {
+        "country": "England",
+        "city": "Newchurch"
+    },
+    "Witton": {
+        "country": "England",
+        "city": "Blackburn"
+    },
+    "Romford": {
+        "country": "England",
+        "city": "London"
+    },
+    "West Bromwich Albion": {
+        "country": "England",
+        "city": "West Bromwich"
+    },
+    "Clitheroe": {
+        "country": "England",
+        "city": "Clitheroe"
+    },
+    "Oswaldtwistle Rovers": {
+        "country": "England",
+        "city": "Oswaldtwistle"
+    },
+    "Darwen Old Wanderers": {
+        "country": "England",
+        "city": "Darwen"
+    },
+    "Staveley": {
+        "country": "England",
+        "city": "Staveley"
+    },
+    "Halliwell": {
+        "country": "England",
+        "city": "Bolton"
+    },
+    "Renton": {
+        "country": "Scotland",
+        "city": "Renton"
+    },
+    "Preston North End": {
+        "country": "England",
+        "city": "Preston"
+    },
+    "Aston Villa": {
+        "country": "England",
+        "city": "Birmingham"
+    },
+    "Oldbury Town": {
+        "country": "England",
+        "city": "Oldbury"
+    },
+    "Birmingham City": {
+        "country": "England",
+        "city": "Birmingham"
+    },
+    "Shankhouse": {
+        "country": "England",
+        "city": "Cramlington"
+    },
+    "Sheffield Wednesday": {
+        "country": "England",
+        "city": "Sheffield"
+    },
+    "Crewe Alexandra": {
+        "country": "England",
+        "city": "Crewe"
+    },
+    "Stoke City": {
+        "country": "England",
+        "city": "Stoke"
+    },
+    "Derby County": {
+        "country": "England",
+        "city": "Derby"
+    },
+    "Wolverhampton Wanderers": {
+        "country": "England",
+        "city": "Wolverhampton"
+    },
+    "Bolton Wanderers": {
+        "country": "England",
+        "city": "Bolton"
+    },
+    "Accrington": {
+        "country": "England",
+        "city": "Accrington"
+    },
+    "Burnley": {
+        "country": "England",
+        "city": "Burnley"
+    },
+    "Old Westminsters": {
+        "country": "England",
+        "city": "London"
+    },
+    "Everton": {
+        "country": "England",
+        "city": "Liverpool"
+    },
+    "Sunderland": {
+        "country": "England",
+        "city": "Sunderland"
+    },
+    "Middlesbrough Ironopolis": {
+        "country": "England",
+        "city": "Middlesbrough"
+    },
+    "Chester": {
+        "country": "England",
+        "city": "Chester"
+    },
+    "Middlesbrough": {
+        "country": "England",
+        "city": "Middlesbrough"
+    },
+    "Lincoln City": {
+        "country": "England",
+        "city": "Lincoln"
+    },
+    "Manchester United": {
+        "country": "England",
+        "city": "Manchester"
+    },
+    "Sheffield United": {
+        "country": "England",
+        "city": "Sheffield"
+    },
+    "Heanor Town": {
+        "country": "England",
+        "city": "Heanor"
+    },
+    "Luton Town": {
+        "country": "England",
+        "city": "Luton"
+    },
+    "Bury": {
+        "country": "England",
+        "city": "Bury"
+    },
+    "Liverpool": {
+        "country": "England",
+        "city": "Liverpool"
+    },
+    "Burton Swifts": {
+        "country": "England",
+        "city": "Burton upon Trent"
+    },
+    "Grimsby Town": {
+        "country": "England",
+        "city": "Grimsby"
+    },
+    "Gainsborough Trinity": {
+        "country": "England",
+        "city": "Gainsborough"
+    },
+    "Southampton": {
+        "country": "England",
+        "city": "Southampton"
+    },
+    "Newcastle United": {
+        "country": "England",
+        "city": "Newcastle upon Tyne"
+    },
+    "South Shore": {
+        "country": "England",
+        "city": "Blackpool"
+    },
+    "Glossop North End": {
+        "country": "England",
+        "city": "Glossop"
+    },
+    "Manchester City": {
+        "country": "England",
+        "city": "Manchester"
+    },
+    "Chorley": {
+        "country": "England",
+        "city": "Chorley"
+    },
+    "Tottenham Hotspur": {
+        "country": "England",
+        "city": "London"
+    },
+    "Swindon Town": {
+        "country": "England",
+        "city": "Swindon"
+    },
+    "Gillingham": {
+        "country": "England",
+        "city": "Gillingham"
+    },
+    "Bristol Rovers": {
+        "country": "England",
+        "city": "Bristol"
+    },
+    "Queen's Park Rangers": {
+        "country": "England",
+        "city": "London"
+    },
+    "Bristol City": {
+        "country": "England",
+        "city": "Bristol"
+    },
+    "Millwall": {
+        "country": "England",
+        "city": "London"
+    },
+    "Portsmouth": {
+        "country": "England",
+        "city": "Portsmouth"
+    },
+    "Arsenal": {
+        "country": "England",
+        "city": "London"
+    },
+    "West Ham United": {
+        "country": "England",
+        "city": "London"
+    },
+    "Northampton Town": {
+        "country": "England",
+        "city": "Northampton"
+    },
+    "Wellingborough Town": {
+        "country": "England",
+        "city": "Wellingborough"
+    },
+    "Kettering Town": {
+        "country": "England",
+        "city": "Kettering"
+    },
+    "Hinckley Town": {
+        "country": "England",
+        "city": "Hinckley"
+    },
+    "Brentford": {
+        "country": "England",
+        "city": "London"
+    },
+    "Watford": {
+        "country": "England",
+        "city": "Watford"
+    },
+    "Barnsley": {
+        "country": "England",
+        "city": "Barnsley"
+    },
+    "Bradford City": {
+        "country": "England",
+        "city": "Bradford"
+    },
+    "Chelsea": {
+        "country": "England",
+        "city": "London"
+    },
+    "Blackpool": {
+        "country": "England",
+        "city": "Blackpool"
+    },
+    "Stockport County": {
+        "country": "England",
+        "city": "Stockport"
+    },
+    "Plymouth Argyle": {
+        "country": "England",
+        "city": "Plymouth"
+    },
+    "Brighton & Hove Albion": {
+        "country": "England",
+        "city": "Brighton"
+    },
+    "Coventry City": {
+        "country": "England",
+        "city": "Coventry"
+    },
+    "Norwich City": {
+        "country": "England",
+        "city": "Norwich"
+    },
+    "Leyton": {
+        "country": "England",
+        "city": "London"
+    },
+    "Croydon Common": {
+        "country": "England",
+        "city": "London"
+    },
+    "Catford Southend": {
+        "country": "England",
+        "city": "London"
+    },
+    "Ilford": {
+        "country": "England",
+        "city": "Ilford"
+    },
+    "Exeter City": {
+        "country": "England",
+        "city": "Exeter"
+    },
+    "Huddersfield Town": {
+        "country": "England",
+        "city": "Huddersfield"
+    },
+    "Hull City": {
+        "country": "England",
+        "city": "Kingston upon Hull"
+    },
+    "Fulham": {
+        "country": "England",
+        "city": "London"
+    },
+    "Leeds City": {
+        "country": "England",
+        "city": "Leeds"
+    },
+    "Bradford (Park Avenue)": {
+        "country": "England",
+        "city": "Bradford"
+    },
+    "Leyton Orient": {
+        "country": "England",
+        "city": "London"
+    },
+    "Oldham Athletic": {
+        "country": "England",
+        "city": "Oldham"
+    },
+    "Southend United": {
+        "country": "England",
+        "city": "Southend-on-Sea"
+    },
+    "Port Vale": {
+        "country": "England",
+        "city": "Stoke-on-Trent"
+    },
+    "Cardiff City": {
+        "country": "Wales",
+        "city": "Cardiff"
+    },
+    "Rotherham County": {
+        "country": "England",
+        "city": "Rotherham"
+    },
+    "Merthyr Town": {
+        "country": "Wales",
+        "city": "Merthyr Tydfil"
+    },
+    "Leeds United": {
+        "country": "England",
+        "city": "Leeds"
+    },
+    "Leicester City": {
+        "country": "England",
+        "city": "Leicester"
+    },
+    "Rotherham United": {
+        "country": "England",
+        "city": "Rotherham"
+    },
+    "AFC Bournemouth": {
+        "country": "England",
+        "city": "Bournemouth"
+    },
+    "Oswestry Town": {
+        "country": "England",
+        "city": "Oswestry"
+    },
+    "Charlton Athletic": {
+        "country": "England",
+        "city": "London"
+    },
+    "Mansfield Town": {
+        "country": "England",
+        "city": "Mansfield"
+    },
+    "Swansea City": {
+        "country": "Wales",
+        "city": "Swansea"
+    },
+    "Southport": {
+        "country": "England",
+        "city": "Southport"
+    },
+    "Chesterfield": {
+        "country": "England",
+        "city": "Chesterfield"
+    },
+    "Tranmere Rovers": {
+        "country": "England",
+        "city": "Birkenhead"
+    },
+    "Rochdale": {
+        "country": "England",
+        "city": "Rochdale"
+    },
+    "New Brighton": {
+        "country": "England",
+        "city": "New Brighton"
+    },
+    "York City": {
+        "country": "England",
+        "city": "York"
+    },
+    "Hartlepools United": {
+        "country": "England",
+        "city": "Hartlepool"
+    },
+    "Doncaster Rovers": {
+        "country": "England",
+        "city": "Doncaster"
+    },
+    "Aldershot": {
+        "country": "England",
+        "city": "Aldershot"
+    },
+    "Newport County": {
+        "country": "Wales",
+        "city": "Newport"
+    },
+    "Corinthians": {
+        "country": "England",
+        "city": "London"
+    },
+    "Walthamstow Avenue": {
+        "country": "England",
+        "city": "London"
+    },
+    "Torquay United": {
+        "country": "England",
+        "city": "Torquay"
+    },
+    "Horden Colliery Welfare": {
+        "country": "England",
+        "city": "Horden"
+    },
+    "Walsall": {
+        "country": "England",
+        "city": "Walsall"
+    },
+    "Ipswich Town": {
+        "country": "England",
+        "city": "Ipswich"
+    },
+    "Wisbech Town": {
+        "country": "England",
+        "city": "Wisbech"
+    },
+    "Scunthorpe United": {
+        "country": "England",
+        "city": "Scunthorpe"
+    },
+    "Halifax Town": {
+        "country": "England",
+        "city": "Halifax"
+    },
+    "Carlisle United": {
+        "country": "England",
+        "city": "Carlisle"
+    },
+    "Anderlecht": {
+        "country": "Belgium",
+        "city": "Brussels"
+    },
+    "Borussia Dortmund": {
+        "country": "Germany",
+        "city": "Dortmund"
+    },
+    "Workington": {
+        "country": "England",
+        "city": "Workington"
+    },
+    "Red Star Belgrade": {
+        "country": "Serbia",
+        "city": "Belgrade"
+    },
+    "FC Schalke 04": {
+        "country": "Germany",
+        "city": "Gelsenkirchen"
+    },
+    "SV Sodingen": {
+        "country": "Germany",
+        "city": "Herne"
+    },
+    "Alemannia Aachen": {
+        "country": "Germany",
+        "city": "Aachen"
+    },
+    "Rot Weiss Oberhausen": {
+        "country": "Germany",
+        "city": "Oberhausen"
+    },
+    "Rot Weiss Essen": {
+        "country": "Germany",
+        "city": "Essen"
+    },
+    "Tura Essen": {
+        "country": "Germany",
+        "city": "Essen"
+    },
+    "Borussia Moenchengladbach": {
+        "country": "Germany",
+        "city": "Moenchengladbach"
+    },
+    "Viktoria Koln": {
+        "country": "Germany",
+        "city": "Cologne"
+    },
+    "VfL Bochum": {
+        "country": "Germany",
+        "city": "Bochum"
+    },
+    "Duisburger SV": {
+        "country": "Germany",
+        "city": "Duisburg"
+    },
+    "SC Preussen Munster": {
+        "country": "Germany",
+        "city": "Munster"
+    },
+    "Westfalia Herne": {
+        "country": "Germany",
+        "city": "Herne"
+    },
+    "STV Horst-Emscher": {
+        "country": "Germany",
+        "city": "Gelsenkirchen"
+    },
+    "VfL Altenbogge": {
+        "country": "Germany",
+        "city": "Bonen"
+    },
+    "Tasmania 1900 Berlin": {
+        "country": "Germany",
+        "city": "Berlin"
+    },
+    "Hamburger SV": {
+        "country": "Germany",
+        "city": "Hamburg"
+    },
+    "Blau-Weiss 90 Berlin": {
+        "country": "Germany",
+        "city": "Berlin"
+    },
+    "Hertha BSC": {
+        "country": "Germany",
+        "city": "Berlin"
+    },
+    "Viktoria 89 Berlin": {
+        "country": "Germany",
+        "city": "Berlin"
+    },
+    "Wacker 04 Berlin": {
+        "country": "Germany",
+        "city": "Berlin"
+    },
+    "Tennis Borussia Berlin": {
+        "country": "Germany",
+        "city": "Berlin"
+    },
+    "Norden-Nordwest Berlin": {
+        "country": "Germany",
+        "city": "Berlin"
+    },
+    "Berliner SV 92": {
+        "country": "Germany",
+        "city": "Berlin"
+    },
+    "Hertha Zehlendorf": {
+        "country": "Germany",
+        "city": "Berlin"
+    },
+    "Union 06 Berlin": {
+        "country": "Germany",
+        "city": "Berlin"
+    },
+    "Wacker 04 Berlin (Amateur)": {
+        "country": "Germany",
+        "city": "Berlin"
+    },
+    "Spandauer SV": {
+        "country": "Germany",
+        "city": "Berlin"
+    },
+    "VfB Hermsdorf": {
+        "country": "Germany",
+        "city": "Berlin"
+    },
+    "FK Pirmasens": {
+        "country": "Germany",
+        "city": "Pirmasens"
+    },
+    "Eintracht Bad Kreuznach": {
+        "country": "Germany",
+        "city": "Bad Kreuznach"
+    },
+    "SV Saar 05 Saarbrucken": {
+        "country": "Germany",
+        "city": "Saarbrucken"
+    },
+    "SC Ludwigshafen": {
+        "country": "Germany",
+        "city": "Ludwigshafen am Rhein"
+    },
+    "Eintracht Trier": {
+        "country": "Germany",
+        "city": "Trier"
+    },
+    "SV Niederlahnstein": {
+        "country": "Germany",
+        "city": "Lahnstein"
+    },
+    "FC Saarbrucken": {
+        "country": "Germany",
+        "city": "Saarbrucken"
+    },
+    "Borussia Neunkirchen": {
+        "country": "Germany",
+        "city": "Neunkirchen"
+    },
+    "Phonix Ludwigshafen": {
+        "country": "Germany",
+        "city": "Ludwigshafen"
+    },
+    "SV Preussen Merchweiler": {
+        "country": "Germany",
+        "city": "Merchweiler"
+    },
+    "FC Kaiserslautern": {
+        "country": "Germany",
+        "city": "Kaiserslautern"
+    },
+    "TuRa Ludwigshafen": {
+        "country": "Germany",
+        "city": "Ludwigshafen am Rhein"
+    },
+    "Sportfreunde Saarbrucken": {
+        "country": "Germany",
+        "city": "Saarbrucken"
+    },
+    "VfR Wormatia Worms": {
+        "country": "Germany",
+        "city": "Worms"
+    },
+    "SG Pirmasens": {
+        "country": "Germany",
+        "city": "Pirmasens"
+    },
+    "VfR Frankenthal": {
+        "country": "Germany",
+        "city": "Frankenthal"
+    },
+    "FSV Mainz 05": {
+        "country": "Germany",
+        "city": "Mainz"
+    },
+    "FVgg Mombach": {
+        "country": "Germany",
+        "city": "Mainz-Mombach"
+    },
+    "BSC Oppau": {
+        "country": "Germany",
+        "city": "Ludwigshafen am Rhein"
+    },
+    "TuS Neuendorf": {
+        "country": "Germany",
+        "city": "Koblenz"
+    },
+    "VfR Kaiserslautern": {
+        "country": "Germany",
+        "city": "Kaiserslautern"
+    },
+    "VfB Theley": {
+        "country": "Germany",
+        "city": "Tholey"
+    },
+    "FSV Schifferstadt": {
+        "country": "Germany",
+        "city": "Schifferstadt"
+    },
+    "Hassia Bingen": {
+        "country": "Germany",
+        "city": "Bingen am Rhein"
+    },
+    "SV St. Ingbert": {
+        "country": "",
+        "city": ""
+    },
+    "FV Speyer": {
+        "country": "",
+        "city": ""
+    },
+    "Germania Metternich": {
+        "country": "",
+        "city": ""
+    },
+    "SpVgg Weisnau": {
+        "country": "",
+        "city": ""
+    },
+    "FV Engers": {
+        "country": "",
+        "city": ""
+    },
+    "1. FC 03 Sobernheim": {
+        "country": "",
+        "city": ""
+    },
+    "SV Volklingen": {
+        "country": "",
+        "city": ""
+    },
+    "FSV Oggersheim": {
+        "country": "",
+        "city": ""
+    },
+    "VfR Baumholder": {
+        "country": "",
+        "city": ""
+    },
+    "FC Kaiserslautern Amateure": {
+        "country": "",
+        "city": ""
+    },
+    "FC Bavaria Woerth 1913": {
+        "country": "",
+        "city": ""
+    },
+    "SpVgg 08 Oberstein": {
+        "country": "",
+        "city": ""
+    },
+    "FC Dahn 1913": {
+        "country": "",
+        "city": ""
+    },
+    "Mundenheimer Spielvereinigung": {
+        "country": "",
+        "city": ""
+    },
+    "ASV Landau 1946": {
+        "country": "",
+        "city": ""
+    },
+    "VfL Neustadt": {
+        "country": "",
+        "city": ""
+    },
+    "FC Rodalben": {
+        "country": "",
+        "city": ""
+    },
+    "VfL Neuwied": {
+        "country": "",
+        "city": ""
+    },
+    "Viktoria Sulzbach": {
+        "country": "",
+        "city": ""
+    },
+    "Phoenix Bellheim": {
+        "country": "",
+        "city": ""
+    },
+    "SV Roechling Voelklingen": {
+        "country": "",
+        "city": ""
+    },
+    "TSC Zweibrucken": {
+        "country": "",
+        "city": ""
+    },
+    "SpVgg Homburg": {
+        "country": "",
+        "city": ""
+    },
+    "SV Weisenau": {
+        "country": "",
+        "city": ""
+    },
+    "FV Engers 07": {
+        "country": "",
+        "city": ""
+    },
+    "VfR 1906 Kaiserslautern": {
+        "country": "",
+        "city": ""
+    },
+    "Eintracht Tier": {
+        "country": "",
+        "city": ""
+    },
+    "SV 09 Fraulautern": {
+        "country": "",
+        "city": ""
+    },
+    "ASV Laundau": {
+        "country": "",
+        "city": ""
+    },
+    "FC Bayern Munich": {
+        "country": "",
+        "city": ""
+    },
+    "FC St Pauli": {
+        "country": "",
+        "city": ""
+    },
+    "1. FC Nuremberg": {
+        "country": "",
+        "city": ""
+    },
+    "VfB Stuttgart": {
+        "country": "",
+        "city": ""
+    },
+    "TSV 1860 Munich": {
+        "country": "",
+        "city": ""
+    },
+    "FC Girondins de Bordeaux": {
+        "country": "",
+        "city": ""
+    },
+    "FC Nantes": {
+        "country": "",
+        "city": ""
+    },
+    "Lille OSC": {
+        "country": "",
+        "city": ""
+    },
+    "FC Rouen 1899": {
+        "country": "",
+        "city": ""
+    },
+    "CS Sedan Ardennes": {
+        "country": "",
+        "city": ""
+    },
+    "Olympique Lyonnais": {
+        "country": "",
+        "city": ""
+    },
+    "RC Strasbourg Alsace": {
+        "country": "",
+        "city": ""
+    },
+    "Nimes Olympique": {
+        "country": "",
+        "city": ""
+    },
+    "Toulouse FC": {
+        "country": "",
+        "city": ""
+    },
+    "RC Lens": {
+        "country": "",
+        "city": ""
+    },
+    "Stade Rennais FC": {
+        "country": "",
+        "city": ""
+    },
+    "Limoges FC": {
+        "country": "",
+        "city": ""
+    },
+    "Union Sportive de Valenciennes Anzin": {
+        "country": "",
+        "city": ""
+    },
+    "SC Toulon": {
+        "country": "",
+        "city": ""
+    },
+    "Association Sportiv d'Aix-en-Provence": {
+        "country": "",
+        "city": ""
+    },
+    "FC Sochaux-Montbeliard": {
+        "country": "",
+        "city": ""
+    },
+    "AS Saint-Etienne": {
+        "country": "",
+        "city": ""
+    },
+    "AS Monaco FC": {
+        "country": "",
+        "city": ""
+    },
+    "Montpellier Herault SC": {
+        "country": "",
+        "city": ""
+    },
+    "AS Cannes": {
+        "country": "",
+        "city": ""
+    },
+    "Stade Francais FC": {
+        "country": "",
+        "city": ""
+    },
+    "Angers SCO": {
+        "country": "",
+        "city": ""
+    },
+    "Partizan Belgrade": {
+        "country": "",
+        "city": ""
+    },
+    "FK Radnicki Beograd": {
+        "country": "",
+        "city": ""
+    },
+    "Patizan Belgrade": {
+        "country": "",
+        "city": ""
+    },
+    "FK Vojvodina": {
+        "country": "",
+        "city": ""
+    },
+    "Dinamo Zagreb": {
+        "country": "",
+        "city": ""
+    },
+    "FK Velez Mostar": {
+        "country": "",
+        "city": ""
+    },
+    "FK Zeljeznicar Sarajevo": {
+        "country": "",
+        "city": ""
+    },
+    "Hajduk Split": {
+        "country": "",
+        "city": ""
+    },
+    "Radnicki Nis": {
+        "country": "",
+        "city": ""
+    },
+    "OFK Beograd": {
+        "country": "",
+        "city": ""
+    },
+    "NK Olimpija Ljubljana": {
+        "country": "",
+        "city": ""
+    },
+    "FK Vardar": {
+        "country": "",
+        "city": ""
+    },
+    "FK Sarajevo": {
+        "country": "",
+        "city": ""
+    },
+    "NK Tresnjevka": {
+        "country": "",
+        "city": ""
+    },
+    "NK Zagreb": {
+        "country": "",
+        "city": ""
+    },
+    "HNK Rijeka": {
+        "country": "",
+        "city": ""
+    },
+    "SSC Farul Constanta": {
+        "country": "",
+        "city": ""
+    },
+    "Dinamo Pitesti": {
+        "country": "",
+        "city": ""
+    },
+    "FK Sutjeska Niksic": {
+        "country": "",
+        "city": ""
+    },
+    "FK Proleter Zrenjanin": {
+        "country": "",
+        "city": ""
+    },
+    "FK Celik Niksic": {
+        "country": "",
+        "city": ""
+    },
+    "NK Neretva": {
+        "country": "",
+        "city": ""
+    },
+    "Jugovinil Kastel Gomilica": {
+        "country": "",
+        "city": ""
+    },
+    "NK DOSK Drnis": {
+        "country": "",
+        "city": ""
+    },
+    "NK Troglav 1918 Livno": {
+        "country": "",
+        "city": ""
+    },
+    "RNK Zmaj Makarska": {
+        "country": "",
+        "city": ""
+    },
+    "Slaven Trogir": {
+        "country": "",
+        "city": ""
+    },
+    "NK Orkan Dugi Rat": {
+        "country": "",
+        "city": ""
+    },
+    "NK Omladinac Vranjic": {
+        "country": "",
+        "city": ""
+    },
+    "RNK Zmaj Markarska": {
+        "country": "",
+        "city": ""
+    },
+    "NK Dinara Knin": {
+        "country": "",
+        "city": ""
+    },
+    "NK Zadar": {
+        "country": "",
+        "city": ""
+    },
+    "NK Junak Sinj": {
+        "country": "",
+        "city": ""
+    },
+    "HNK Dubrovnik 1919": {
+        "country": "",
+        "city": ""
+    },
+    "HNK Jadran Kaštel Sućurac": {
+        "country": "",
+        "city": ""
+    },
+    "HNK Val Kastel Stari": {
+        "country": "",
+        "city": ""
+    },
+    "HNK Sloga Mravince": {
+        "country": "",
+        "city": ""
+    },
+    "NK Solin": {
+        "country": "",
+        "city": ""
+    },
+    "NK Omis": {
+        "country": "",
+        "city": ""
+    },
+    "NK Bagat Zadar": {
+        "country": "",
+        "city": ""
+    },
+    "NK Metalac Sibenik": {
+        "country": "",
+        "city": ""
+    },
+    "Proleter Dugopolje": {
+        "country": "",
+        "city": ""
+    },
+    "NK Omladinac Zadar": {
+        "country": "",
+        "city": ""
+    },
+    "NK Urania Baska Voda": {
+        "country": "",
+        "city": ""
+    },
+    "NK Jadran Luka Ploce": {
+        "country": "",
+        "city": ""
+    },
+    "HNK Jadran Tucepi": {
+        "country": "",
+        "city": ""
+    },
+    "HNK Slaven Gruda": {
+        "country": "",
+        "city": ""
+    },
+    "NK DOĹ K DrniĹˇ": {
+        "country": "",
+        "city": ""
+    },
+    "HNK Velebit Benkovac": {
+        "country": "",
+        "city": ""
+    },
+    "NK Radnik Velika Gorica": {
+        "country": "",
+        "city": ""
+    },
+    "NK Istra Pula": {
+        "country": "",
+        "city": ""
+    },
+    "NK Mura Murska Sobota": {
+        "country": "",
+        "city": ""
+    },
+    "NK Zeleznicar Maribor": {
+        "country": "",
+        "city": ""
+    },
+    "HNK Sibenik": {
+        "country": "",
+        "city": ""
+    },
+    "NK Tresnjevka Zagreb": {
+        "country": "",
+        "city": ""
+    },
+    "NK Merkator Ljubljana": {
+        "country": "",
+        "city": ""
+    },
+    "RNK Split": {
+        "country": "",
+        "city": ""
+    },
+    "NK Jedinstvo Bihac": {
+        "country": "",
+        "city": ""
+    },
+    "NK Varteks Varazdin": {
+        "country": "",
+        "city": ""
+    },
+    "FK Rudar Prijedor": {
+        "country": "",
+        "city": ""
+    },
+    "NK Orijent Rijeka": {
+        "country": "",
+        "city": ""
+    },
+    "NK Zagrebacki plavi": {
+        "country": "",
+        "city": ""
+    },
+    "NK Ljubljana": {
+        "country": "",
+        "city": ""
+    },
+    "FK Spartak Subotica": {
+        "country": "",
+        "city": ""
+    },
+    "FK Buducnost Podgorica": {
+        "country": "",
+        "city": ""
+    },
+    "FK Borac Banja Luka": {
+        "country": "",
+        "city": ""
+    },
+    "FK Borac Banja Luca": {
+        "country": "",
+        "city": ""
+    },
+    "FC Lausanne Sports": {
+        "country": "",
+        "city": ""
+    },
+    "NK Celik Zenica": {
+        "country": "",
+        "city": ""
+    },
+    "FC Grenchen": {
+        "country": "",
+        "city": ""
+    },
+    "Grasshoppers": {
+        "country": "",
+        "city": ""
+    },
+    "FC Basel": {
+        "country": "",
+        "city": ""
+    },
+    "FC La Chaux-de-Fonds": {
+        "country": "",
+        "city": ""
+    },
+    "FC Martigny-Sports": {
+        "country": "",
+        "city": ""
+    },
+    "FC Winterthur": {
+        "country": "",
+        "city": ""
+    },
+    "BSC Young Boys": {
+        "country": "",
+        "city": ""
+    },
+    "FC Sion": {
+        "country": "",
+        "city": ""
+    },
+    "Servette Geneve": {
+        "country": "",
+        "city": ""
+    },
+    "FC Fribourg": {
+        "country": "",
+        "city": ""
+    },
+    "FC Biel-Bienne": {
+        "country": "",
+        "city": ""
+    },
+    "FC St Gallen": {
+        "country": "",
+        "city": ""
+    },
+    "FC Chiasso": {
+        "country": "",
+        "city": ""
+    },
+    "FC Zurich": {
+        "country": "",
+        "city": ""
+    },
+    "Slavia Prague": {
+        "country": "",
+        "city": ""
+    },
+    "AS Nancy": {
+        "country": "",
+        "city": ""
+    },
+    "IFK Norrkoping": {
+        "country": "",
+        "city": ""
+    },
+    "FC Vevey-Sports": {
+        "country": "",
+        "city": ""
+    },
+    "Neuchatel Xamax": {
+        "country": "",
+        "city": ""
+    },
+    "CS Chenois": {
+        "country": "",
+        "city": ""
+    },
+    "FC Lugano": {
+        "country": "",
+        "city": ""
+    },
+    "FC Aarau": {
+        "country": "",
+        "city": ""
+    },
+    "FC Luzern": {
+        "country": "",
+        "city": ""
+    },
+    "Malmo FF": {
+        "country": "",
+        "city": ""
+    },
+    "Etoile Carouge FC": {
+        "country": "",
+        "city": ""
+    },
+    "Juventus Zurich": {
+        "country": "",
+        "city": ""
+    },
+    "Young Fellows Zurich": {
+        "country": "",
+        "city": ""
+    },
+    "FC Laufen": {
+        "country": "",
+        "city": ""
+    },
+    "Neuchatel Xamex": {
+        "country": "",
+        "city": ""
+    },
+    "FC Lerchenfeld": {
+        "country": "",
+        "city": ""
+    },
+    "AC Bellinzona": {
+        "country": "",
+        "city": ""
+    },
+    "FC Wettingen": {
+        "country": "",
+        "city": ""
+    },
+    "FC Red Star Zurich": {
+        "country": "",
+        "city": ""
+    },
+    "FC Dinamo Tblisi": {
+        "country": "",
+        "city": ""
+    },
+    "FC Nordsten Basel": {
+        "country": "",
+        "city": ""
+    },
+    "Eintracht Frankfurt": {
+        "country": "",
+        "city": ""
+    },
+    "Fortuna Dusseldorf": {
+        "country": "",
+        "city": ""
+    },
+    "1. FC Koln": {
+        "country": "",
+        "city": ""
+    },
+    "Rot Weiss Ludenscheid": {
+        "country": "",
+        "city": ""
+    },
+    "Eintracht Braunschweig": {
+        "country": "",
+        "city": ""
+    },
+    "FC Cologen": {
+        "country": "",
+        "city": ""
+    },
+    "DSC Arminia Bielefeld": {
+        "country": "",
+        "city": ""
+    },
+    "VfL Osnabruck": {
+        "country": "",
+        "city": ""
+    },
+    "Wuppertaler SV": {
+        "country": "",
+        "city": ""
+    },
+    "DSC Wanne-Eickel": {
+        "country": "",
+        "city": ""
+    },
+    "SG Union Solingen": {
+        "country": "",
+        "city": ""
+    },
+    "Rot-Weiss Essen": {
+        "country": "",
+        "city": ""
+    },
+    "Hannover 96": {
+        "country": "",
+        "city": ""
+    },
+    "SC Fortuna Koln": {
+        "country": "",
+        "city": ""
+    },
+    "Bayer 04 Leverkusen": {
+        "country": "",
+        "city": ""
+    },
+    "Arminia Hannover": {
+        "country": "",
+        "city": ""
+    },
+    "Holstein Kiel": {
+        "country": "",
+        "city": ""
+    },
+    "Rot-Weiss Oberhausen": {
+        "country": "",
+        "city": ""
+    },
+    "VfR Aalen": {
+        "country": "",
+        "city": ""
+    },
+    "TuS Xanten": {
+        "country": "",
+        "city": ""
+    },
+    "SG Wattenscheid 09": {
+        "country": "",
+        "city": ""
+    },
+    "SC Herford": {
+        "country": "",
+        "city": ""
+    },
+    "OSC Bremerhaven": {
+        "country": "",
+        "city": ""
+    },
+    "OSV Hannover": {
+        "country": "",
+        "city": ""
+    },
+    "Wuppertaler SC": {
+        "country": "",
+        "city": ""
+    },
+    "SV Darmstadt 98": {
+        "country": "",
+        "city": ""
+    },
+    "SV Werder Bremen": {
+        "country": "",
+        "city": ""
+    },
+    "Bayer Uerdingen": {
+        "country": "",
+        "city": ""
+    },
+    "Real Madrid CF": {
+        "country": "",
+        "city": ""
+    },
+    "Burgos CF": {
+        "country": "",
+        "city": ""
+    },
+    "CD Malaga": {
+        "country": "",
+        "city": ""
+    },
+    "SV Salzburg": {
+        "country": "",
+        "city": ""
+    },
+    "FC Wurzberger Kickers": {
+        "country": "",
+        "city": ""
+    },
+    "PSV Eindhoven": {
+        "country": "",
+        "city": ""
+    },
+    "TSV 1860 Munchen": {
+        "country": "",
+        "city": ""
+    },
+    "VfB Oldenburg": {
+        "country": "",
+        "city": ""
+    },
+    "MSV Duisburg": {
+        "country": "",
+        "city": ""
+    },
+    "SC Julich": {
+        "country": "",
+        "city": ""
+    },
+    "Karlsruher SC": {
+        "country": "",
+        "city": ""
+    },
+    "PFC Akademik Sofia": {
+        "country": "",
+        "city": ""
+    },
+    "Spartak Moscow": {
+        "country": "",
+        "city": ""
+    },
+    "FC Shakhtar Donetsk": {
+        "country": "",
+        "city": ""
+    },
+    "SC Gottingen 05": {
+        "country": "",
+        "city": ""
+    },
+    "FK Teteks Tetovo": {
+        "country": "",
+        "city": ""
+    },
+    "NK Osijek": {
+        "country": "",
+        "city": ""
+    },
+    "Slavia Sofia": {
+        "country": "",
+        "city": ""
+    },
+    "FK Galenika Zemun": {
+        "country": "",
+        "city": ""
+    },
+    "NK Viko-Omladinac": {
+        "country": "",
+        "city": ""
+    },
+    "NK Dinamo Vinkovci": {
+        "country": "",
+        "city": ""
+    },
+    "FK Sloboda Tuzla": {
+        "country": "",
+        "city": ""
+    },
+    "Lokomotiva Vinkovci": {
+        "country": "",
+        "city": ""
+    },
+    "FK Buducnost Titograd": {
+        "country": "",
+        "city": ""
+    },
+    "FC Prishtina": {
+        "country": "",
+        "city": ""
+    },
+    "Berliner FC Dynamo": {
+        "country": "",
+        "city": ""
+    },
+    "FC Carl Zeiss Jena": {
+        "country": "",
+        "city": ""
+    },
+    "AC Sparta Prague": {
+        "country": "",
+        "city": ""
+    },
+    "FC Nitra": {
+        "country": "",
+        "city": ""
+    },
+    "FC Lokomotiva Kosice": {
+        "country": "",
+        "city": ""
+    },
+    "FK Leotar": {
+        "country": "",
+        "city": ""
+    },
+    "OFK Kikinda": {
+        "country": "",
+        "city": ""
+    },
+    "FK Novi Sad": {
+        "country": "",
+        "city": ""
+    },
+    "NK Maribor": {
+        "country": "",
+        "city": ""
+    },
+    "FK Jedinstvo Brcko": {
+        "country": "",
+        "city": ""
+    },
+    "FK Crvenka": {
+        "country": "",
+        "city": ""
+    },
+    "FK Vrbas": {
+        "country": "",
+        "city": ""
+    },
+    "GOSK Jug": {
+        "country": "",
+        "city": ""
+    },
+    "FK Radnik Bijeljina": {
+        "country": "",
+        "city": ""
+    },
+    "FC Dinamo Bucharest": {
+        "country": "",
+        "city": ""
+    },
+    "Victoria Bucharest": {
+        "country": "",
+        "city": ""
+    },
+    "Dundee United": {
+        "country": "",
+        "city": ""
+    },
+    "Celtic": {
+        "country": "",
+        "city": ""
+    },
+    "Heart of Midlothian": {
+        "country": "",
+        "city": ""
+    },
+    "Motherwell": {
+        "country": "",
+        "city": ""
+    },
+    "Dundee": {
+        "country": "",
+        "city": ""
+    },
+    "Clydebank": {
+        "country": "",
+        "city": ""
+    },
+    "Barcelona SC": {
+        "country": "",
+        "city": ""
+    },
+    "Real Zaragoza": {
+        "country": "",
+        "city": ""
+    },
+    "Real Racing Club de Santander": {
+        "country": "",
+        "city": ""
+    },
+    "UD Las Palmas": {
+        "country": "",
+        "city": ""
+    },
+    "Atletico Madrid": {
+        "country": "",
+        "city": ""
+    },
+    "CA Osasuna": {
+        "country": "",
+        "city": ""
+    },
+    "Real Sporting de Gijon": {
+        "country": "",
+        "city": ""
+    },
+    "Internazionale Milan": {
+        "country": "",
+        "city": ""
+    },
+    "Real Sociedad": {
+        "country": "",
+        "city": ""
+    },
+    "Athletic Club de Bilbao": {
+        "country": "",
+        "city": ""
+    },
+    "Real Oviedo": {
+        "country": "",
+        "city": ""
+    },
+    "Albacete Balompie": {
+        "country": "",
+        "city": ""
+    },
+    "Real Betis Balompie": {
+        "country": "",
+        "city": ""
+    },
+    "FC Barcelona": {
+        "country": "",
+        "city": ""
+    },
+    "RCD Mallorca": {
+        "country": "",
+        "city": ""
+    },
+    "Cadiz CF": {
+        "country": "",
+        "city": ""
+    },
+    "CE Sabadell": {
+        "country": "",
+        "city": ""
+    },
+    "Flamurtari Vlore": {
+        "country": "",
+        "city": ""
+    },
+    "Sevilla FC": {
+        "country": "",
+        "city": ""
+    },
+    "Real Valladolid": {
+        "country": "",
+        "city": ""
+    },
+    "RCD Espanyol": {
+        "country": "",
+        "city": ""
+    },
+    "Real Murcia": {
+        "country": "",
+        "city": ""
+    },
+    "Athletic Bibao": {
+        "country": "",
+        "city": ""
+    },
+    "SSC Napoli": {
+        "country": "",
+        "city": ""
+    },
+    "FC Porto": {
+        "country": "",
+        "city": ""
+    },
+    "Valencia CF": {
+        "country": "",
+        "city": ""
+    },
+    "Elche CF": {
+        "country": "",
+        "city": ""
+    },
+    "Sestao SC": {
+        "country": "",
+        "city": ""
+    },
+    "Recreativo de Huelva": {
+        "country": "",
+        "city": ""
+    },
+    "CD Castellon": {
+        "country": "",
+        "city": ""
+    },
+    "Xerez CD": {
+        "country": "",
+        "city": ""
+    },
+    "Athletic Club de Bilbao B": {
+        "country": "",
+        "city": ""
+    },
+    "CD Tenerife": {
+        "country": "",
+        "city": ""
+    },
+    "Hercules de Alicante CF": {
+        "country": "",
+        "city": ""
+    },
+    "Granada CF": {
+        "country": "",
+        "city": ""
+    },
+    "Deportivo La Coruna": {
+        "country": "",
+        "city": ""
+    },
+    "Rayo Vallecano de Madrid": {
+        "country": "",
+        "city": ""
+    },
+    "UE Figueres": {
+        "country": "",
+        "city": ""
+    },
+    "Cartagena FC": {
+        "country": "",
+        "city": ""
+    },
+    "Unio Esportiva Lleida": {
+        "country": "",
+        "city": ""
+    },
+    "Real Madrid Castello": {
+        "country": "",
+        "city": ""
+    },
+    "UD Fraga": {
+        "country": "",
+        "city": ""
+    },
+    "Real Burgos": {
+        "country": "",
+        "city": ""
+    },
+    "SD Eibar": {
+        "country": "",
+        "city": ""
+    },
+    "Real Sociedad B": {
+        "country": "",
+        "city": ""
+    },
+    "FC Barcelona Aficionados": {
+        "country": "",
+        "city": ""
+    },
+    "Gimnastico de Tarragona": {
+        "country": "",
+        "city": ""
+    },
+    "CD Binefar": {
+        "country": "",
+        "city": ""
+    },
+    "CE L'Hospitalet": {
+        "country": "",
+        "city": ""
+    },
+    "UD Poblense": {
+        "country": "",
+        "city": ""
+    },
+    "CD Athletico Baleares": {
+        "country": "",
+        "city": ""
+    },
+    "CD Santa Ponsa": {
+        "country": "",
+        "city": ""
+    },
+    "CF Cala Millor": {
+        "country": "",
+        "city": ""
+    },
+    "Endesa Andorra": {
+        "country": "",
+        "city": ""
+    },
+    "Palamos CF": {
+        "country": "",
+        "city": ""
+    },
+    "Deportivo Aragon": {
+        "country": "",
+        "city": ""
+    },
+    "Barcelona Aficionados": {
+        "country": "",
+        "city": ""
+    },
+    "CD Arnedo": {
+        "country": "",
+        "city": ""
+    },
+    "FC Andorra": {
+        "country": "",
+        "city": ""
+    },
+    "CD Calahorra": {
+        "country": "",
+        "city": ""
+    },
+    "Terrassa FC": {
+        "country": "",
+        "city": ""
+    },
+    "CF Sporting Mahones": {
+        "country": "",
+        "city": ""
+    },
+    "CD Teruel": {
+        "country": "",
+        "city": ""
+    },
+    "CA Osasuna B": {
+        "country": "",
+        "city": ""
+    },
+    "Endessa Andorra": {
+        "country": "",
+        "city": ""
+    },
+    "RC Celta de Vigo": {
+        "country": "",
+        "city": ""
+    },
+    "UD Logrones": {
+        "country": "",
+        "city": ""
+    },
+    "Djurgardens IF": {
+        "country": "",
+        "city": ""
+    },
+    "Real Betis": {
+        "country": "",
+        "city": ""
+    },
+    "Trabzonspor": {
+        "country": "",
+        "city": ""
+    },
+    "Genclerbirligi SK": {
+        "country": "",
+        "city": ""
+    },
+    "Karsiyaka SK": {
+        "country": "",
+        "city": ""
+    },
+    "Galatasaray SK": {
+        "country": "",
+        "city": ""
+    },
+    "Bursaspor KD": {
+        "country": "",
+        "city": ""
+    },
+    "Bakirkoy SK": {
+        "country": "",
+        "city": ""
+    },
+    "Adanaspor": {
+        "country": "",
+        "city": ""
+    },
+    "Besiktas JK": {
+        "country": "",
+        "city": ""
+    },
+    "Fenerbahce SK": {
+        "country": "",
+        "city": ""
+    },
+    "Gaziantepspor": {
+        "country": "",
+        "city": ""
+    },
+    "Aydinspor": {
+        "country": "",
+        "city": ""
+    },
+    "Konyaspor": {
+        "country": "",
+        "city": ""
+    },
+    "Boluspor": {
+        "country": "",
+        "city": ""
+    },
+    "MKE Ankaragucu": {
+        "country": "",
+        "city": ""
+    },
+    "Sariyer SK": {
+        "country": "",
+        "city": ""
+    },
+    "Eisenhuttenstadter FC Stahl": {
+        "country": "",
+        "city": ""
+    },
+    "Altay SK": {
+        "country": "",
+        "city": ""
+    },
+    "Eskisehirspor": {
+        "country": "",
+        "city": ""
+    },
+    "Samsunspor": {
+        "country": "",
+        "city": ""
+    },
+    "Turun Palloseura": {
+        "country": "",
+        "city": ""
+    },
+    "SK Sigma Olomouc": {
+        "country": "",
+        "city": ""
+    },
+    "Bohemians CKD Praha": {
+        "country": "",
+        "city": ""
+    },
+    "FC Bank Ostrava": {
+        "country": "",
+        "city": ""
+    },
+    "Juventus": {
+        "country": "",
+        "city": ""
+    },
+    "AC Milan": {
+        "country": "",
+        "city": ""
+    },
+    "Udinese Calcio": {
+        "country": "",
+        "city": ""
+    },
+    "US Ancona": {
+        "country": "",
+        "city": ""
+    },
+    "UC Sampdoria": {
+        "country": "",
+        "city": ""
+    },
+    "AS Roma": {
+        "country": "",
+        "city": ""
+    },
+    "Cagliari Calcio": {
+        "country": "",
+        "city": ""
+    },
+    "Brescia Calcio": {
+        "country": "",
+        "city": ""
+    },
+    "Genoa CFC": {
+        "country": "",
+        "city": ""
+    },
+    "Calcio Foggia 1920": {
+        "country": "",
+        "city": ""
+    },
+    "Delfino Pescara 1936": {
+        "country": "",
+        "city": ""
+    },
+    "Atalanta BC": {
+        "country": "",
+        "city": ""
+    },
+    "ACF Fiorentina": {
+        "country": "",
+        "city": ""
+    },
+    "Dynamo Dresden": {
+        "country": "",
+        "city": ""
+    },
+    "1. FC Saarbrucken": {
+        "country": "",
+        "city": ""
+    },
+    "VfB Leipzig": {
+        "country": "",
+        "city": ""
+    },
+    "Stuttgarter Kickers": {
+        "country": "",
+        "city": ""
+    },
+    "1. FC Kaiserslautern": {
+        "country": "",
+        "city": ""
+    },
+    "TSG Pfeddersheim": {
+        "country": "",
+        "city": ""
+    },
+    "Wimbledon": {
+        "country": "",
+        "city": ""
+    },
+    "Paris Saint-Germain FC": {
+        "country": "",
+        "city": ""
+    },
+    "Royal Antwerp": {
+        "country": "",
+        "city": ""
+    },
+    "UDA Gramenet": {
+        "country": "",
+        "city": ""
+    },
+    "UE Sant Andreu": {
+        "country": "",
+        "city": ""
+    },
+    "RC Deportivo de la Coruna": {
+        "country": "",
+        "city": ""
+    },
+    "CD Lugo": {
+        "country": "",
+        "city": ""
+    },
+    "CF Fuenlabrada": {
+        "country": "",
+        "city": ""
+    },
+    "Club Deportivo Logrones": {
+        "country": "",
+        "city": ""
+    },
+    "SD Compostela": {
+        "country": "",
+        "city": ""
+    },
+    "Merida AD": {
+        "country": "",
+        "city": ""
+    },
+    "Salamanca CF UDS": {
+        "country": "",
+        "city": ""
+    },
+    "Ferencvaros TC": {
+        "country": "",
+        "city": ""
+    },
+    "Merida UD": {
+        "country": "",
+        "city": ""
+    },
+    "Ajax Amsterdam": {
+        "country": "",
+        "city": ""
+    },
+    "Malaga CF": {
+        "country": "",
+        "city": ""
+    },
+    "Extremadura UD": {
+        "country": "",
+        "city": ""
+    },
+    "UD Salamanca": {
+        "country": "",
+        "city": ""
+    },
+    "Club Athletic de Bilbao": {
+        "country": "",
+        "city": ""
+    },
+    "Club Atletico Madrid": {
+        "country": "",
+        "city": ""
+    },
+    "Club Athletico de Madrid": {
+        "country": "",
+        "city": ""
+    },
+    "CF Gandia": {
+        "country": "",
+        "city": ""
+    },
+    "CF Soller": {
+        "country": "",
+        "city": ""
+    },
+    "RCD Mallorca B": {
+        "country": "",
+        "city": ""
+    },
+    "CE Sabadell FC": {
+        "country": "",
+        "city": ""
+    },
+    "Gimnastic de Tarragona": {
+        "country": "",
+        "city": ""
+    },
+    "CF Gava": {
+        "country": "",
+        "city": ""
+    },
+    "UD Pajara Playas de Jandia": {
+        "country": "",
+        "city": ""
+    },
+    "RCD Espanyol B": {
+        "country": "",
+        "city": ""
+    },
+    "FC Barcelona B": {
+        "country": "",
+        "city": ""
+    },
+    "Valencia CF Mestalla": {
+        "country": "",
+        "city": ""
+    },
+    "Otinyent CF": {
+        "country": "",
+        "city": ""
+    },
+    "CD Mensajero": {
+        "country": "",
+        "city": ""
+    },
+    "Noveldo CF": {
+        "country": "",
+        "city": ""
+    },
+    "UD Galdar": {
+        "country": "",
+        "city": ""
+    },
+    "CP Cacereno": {
+        "country": "",
+        "city": ""
+    },
+    "UP Plasencia": {
+        "country": "",
+        "city": ""
+    },
+    "Ecija Balompie": {
+        "country": "",
+        "city": ""
+    },
+    "UD Melilla": {
+        "country": "",
+        "city": ""
+    },
+    "UP Placsencia": {
+        "country": "",
+        "city": ""
+    },
+    "Motril CF": {
+        "country": "",
+        "city": ""
+    },
+    "AD Ceuta FC": {
+        "country": "",
+        "city": ""
+    },
+    "Real Betis B": {
+        "country": "",
+        "city": ""
+    },
+    "Sevilla Atletico": {
+        "country": "",
+        "city": ""
+    },
+    "UD Almeria": {
+        "country": "",
+        "city": ""
+    },
+    "Real Jaen": {
+        "country": "",
+        "city": ""
+    },
+    "Jerez CF": {
+        "country": "",
+        "city": ""
+    },
+    "CP Almeria": {
+        "country": "",
+        "city": ""
+    },
+    "CD Isla Cristina": {
+        "country": "",
+        "city": ""
+    },
+    "Moralo CP": {
+        "country": "",
+        "city": ""
+    },
+    "CP Cacereo": {
+        "country": "",
+        "city": ""
+    },
+    "Cordoba CF": {
+        "country": "",
+        "city": ""
+    },
+    "CD Manchego": {
+        "country": "",
+        "city": ""
+    },
+    "Algeciras CF": {
+        "country": "",
+        "city": ""
+    },
+    "Getafe CF": {
+        "country": "",
+        "city": ""
+    },
+    "Barakaldo CF": {
+        "country": "",
+        "city": ""
+    },
+    "CD Badajoz": {
+        "country": "",
+        "city": ""
+    },
+    "Villareal CF": {
+        "country": "",
+        "city": ""
+    },
+    "Levante UD": {
+        "country": "",
+        "city": ""
+    },
+    "CD Toledo": {
+        "country": "",
+        "city": ""
+    },
+    "Athletico Madrid B": {
+        "country": "",
+        "city": ""
+    },
+    "CD Leganes": {
+        "country": "",
+        "city": ""
+    },
+    "Real Union": {
+        "country": "",
+        "city": ""
+    },
+    "Celta da Vigo": {
+        "country": "",
+        "city": ""
+    },
+    "Deportivo Alaves": {
+        "country": "",
+        "city": ""
+    },
+    "CD Numancia": {
+        "country": "",
+        "city": ""
+    },
+    "Panathinaikos AO": {
+        "country": "",
+        "city": ""
+    },
+    "CD Burriana": {
+        "country": "",
+        "city": ""
+    },
+    "Coria CF": {
+        "country": "",
+        "city": ""
+    },
+    "Guadix CF": {
+        "country": "",
+        "city": ""
+    },
+    "Poli Ejido 2012 Sociedad Deportiva": {
+        "country": "",
+        "city": ""
+    },
+    "CD San Fernando": {
+        "country": "",
+        "city": ""
+    },
+    "Real Balompedica Linense": {
+        "country": "",
+        "city": ""
+    },
+    "CD Linares": {
+        "country": "",
+        "city": ""
+    },
+    "Dos Hermanas CF": {
+        "country": "",
+        "city": ""
+    },
+    "Talavera CF": {
+        "country": "",
+        "city": ""
+    },
+    "CD Don Benito": {
+        "country": "",
+        "city": ""
+    },
+    "Club Gimnastic de Tarragona": {
+        "country": "",
+        "city": ""
+    },
+    "Amurrio Club": {
+        "country": "",
+        "city": ""
+    },
+    "CF Ciudad de Murcia": {
+        "country": "",
+        "city": ""
+    },
+    "FC Cartagena": {
+        "country": "",
+        "city": ""
+    },
+    "Novelda CF": {
+        "country": "",
+        "city": ""
+    },
+    "Orihuela Deportiva CF": {
+        "country": "",
+        "city": ""
+    },
+    "CF Reus Deportiu": {
+        "country": "",
+        "city": ""
+    },
+    "CE Mataro": {
+        "country": "",
+        "city": ""
+    },
+    "Alicante CF": {
+        "country": "",
+        "city": ""
+    },
+    "FC Internazionale Milano": {
+        "country": "",
+        "city": ""
+    },
+    "RC Recreativo de Huelva": {
+        "country": "",
+        "city": ""
+    },
+    "FK Matador Puchov": {
+        "country": "",
+        "city": ""
+    },
+    "AIK Stockholm": {
+        "country": "",
+        "city": ""
+    },
+    "Maccabi Haifa FC": {
+        "country": "",
+        "city": ""
+    },
+    "AS Monaco": {
+        "country": "",
+        "city": ""
+    },
+    "FC Metz": {
+        "country": "",
+        "city": ""
+    },
+    "AC Ajaccio": {
+        "country": "",
+        "city": ""
+    },
+    "AJ Auxerre": {
+        "country": "",
+        "city": ""
+    },
+    "SM Caen": {
+        "country": "",
+        "city": ""
+    },
+    "SC Bastia": {
+        "country": "",
+        "city": ""
+    },
+    "FC Istres": {
+        "country": "",
+        "city": ""
+    },
+    "Troyes AC": {
+        "country": "",
+        "city": ""
+    },
+    "Olympique de Marseilles": {
+        "country": "",
+        "city": ""
+    },
+    "OGC Nice": {
+        "country": "",
+        "city": ""
+    },
+    "Calais RUFC": {
+        "country": "",
+        "city": ""
+    },
+    "Croix de Savoie 74": {
+        "country": "",
+        "city": ""
+    },
+    "FC Libourne": {
+        "country": "",
+        "city": ""
+    },
+    "Racing Club de France": {
+        "country": "",
+        "city": ""
+    },
+    "Aviron Bayonnais FC": {
+        "country": "",
+        "city": ""
+    },
+    "FC Sete 34": {
+        "country": "",
+        "city": ""
+    },
+    "US Raon-l'Etape": {
+        "country": "",
+        "city": ""
+    },
+    "ES Wasquehal": {
+        "country": "",
+        "city": ""
+    },
+    "AS Cherbourg Football": {
+        "country": "",
+        "city": ""
+    },
+    "ASOA Valence": {
+        "country": "",
+        "city": ""
+    },
+    "SO Romorantin": {
+        "country": "",
+        "city": ""
+    },
+    "Croix Savoie": {
+        "country": "",
+        "city": ""
+    },
+    "FC Rouen": {
+        "country": "",
+        "city": ""
+    },
+    "Jura Sud Foot": {
+        "country": "",
+        "city": ""
+    },
+    "US Le Pontet Football": {
+        "country": "",
+        "city": ""
+    },
+    "RCO Agde": {
+        "country": "",
+        "city": ""
+    },
+    "US Marseille Endoume Catalans": {
+        "country": "",
+        "city": ""
+    },
+    "AS Lyon Duchere": {
+        "country": "",
+        "city": ""
+    },
+    "SO Cassis Carnoux": {
+        "country": "",
+        "city": ""
+    },
+    "AS Monaco B": {
+        "country": "",
+        "city": ""
+    },
+    "tbc": {
+        "country": "",
+        "city": ""
+    },
+    "FC Sochaux B": {
+        "country": "",
+        "city": ""
+    },
+    "FC Martigues": {
+        "country": "",
+        "city": ""
+    },
+    "Entente Pays Maichois": {
+        "country": "",
+        "city": ""
+    },
+    "Olympique Lyonnais B": {
+        "country": "",
+        "city": ""
+    },
+    "Besancon Football": {
+        "country": "",
+        "city": ""
+    },
+    "Frejus St Raphael": {
+        "country": "",
+        "city": ""
+    },
+    "Olympique Lyonnias B": {
+        "country": "",
+        "city": ""
+    },
+    "Gap Hautes-Alpes FC": {
+        "country": "",
+        "city": ""
+    },
+    "OGC Nice B": {
+        "country": "",
+        "city": ""
+    },
+    "FC Bourg-Peronnas": {
+        "country": "",
+        "city": ""
+    },
+    "AS Saint-Priest": {
+        "country": "",
+        "city": ""
+    },
+    "Montpellier Herault SC B": {
+        "country": "",
+        "city": ""
+    },
+    "L'Entente SSG": {
+        "country": "",
+        "city": ""
+    },
+    "Moulins-Yzeure Foot": {
+        "country": "",
+        "city": ""
+    },
+    "Clermont Foot 63": {
+        "country": "",
+        "city": ""
+    },
+    "AS Beauvais Oise": {
+        "country": "",
+        "city": ""
+    },
+    "Stade Lavallois Mayenne FC": {
+        "country": "",
+        "city": ""
+    },
+    "Vannes OC": {
+        "country": "",
+        "city": ""
+    },
+    "Portugais Perpignan": {
+        "country": "",
+        "city": ""
+    },
+    "CSO Amneville": {
+        "country": "",
+        "city": ""
+    },
+    "ESTAC Troyes B": {
+        "country": "",
+        "city": ""
+    },
+    "AS Pierrots Vauban Strasbourg": {
+        "country": "",
+        "city": ""
+    },
+    "FCSR Haguenau": {
+        "country": "",
+        "city": ""
+    },
+    "US Pont-de-Roide": {
+        "country": "",
+        "city": ""
+    },
+    "SC Selongey": {
+        "country": "",
+        "city": ""
+    },
+    "ASM Belfort": {
+        "country": "",
+        "city": ""
+    },
+    "RC Besancon B": {
+        "country": "",
+        "city": ""
+    },
+    "AS Illzach Modenheim": {
+        "country": "",
+        "city": ""
+    },
+    "CA Pontarlier": {
+        "country": "",
+        "city": ""
+    },
+    "Jarville JF": {
+        "country": "",
+        "city": ""
+    },
+    "AS Algrange": {
+        "country": "",
+        "city": ""
+    },
+    "SRD Saint-Die": {
+        "country": "",
+        "city": ""
+    },
+    "FCO Dijon B": {
+        "country": "",
+        "city": ""
+    },
+    "RCS La Chapelle": {
+        "country": "",
+        "city": ""
+    },
+    "SR Colmar": {
+        "country": "",
+        "city": ""
+    },
+    "CO Saint-Dizier": {
+        "country": "",
+        "city": ""
+    },
+    "FC St-Louis Neuweg": {
+        "country": "",
+        "city": ""
+    },
+    "US Sarre-Union": {
+        "country": "",
+        "city": ""
+    },
+    "SC Drulingen": {
+        "country": "",
+        "city": ""
+    },
+    "FC Illhaeusern": {
+        "country": "",
+        "city": ""
+    },
+    "US Reipertswiller": {
+        "country": "",
+        "city": ""
+    },
+    "FC Obermodern": {
+        "country": "",
+        "city": ""
+    },
+    "FCSR Haguenau B": {
+        "country": "",
+        "city": ""
+    },
+    "CS Mars Bischheim": {
+        "country": "",
+        "city": ""
+    },
+    "FC Brunstatt": {
+        "country": "",
+        "city": ""
+    },
+    "ASL Koetzingue": {
+        "country": "",
+        "city": ""
+    },
+    "AS Sundhoffen": {
+        "country": "",
+        "city": ""
+    },
+    "SR Colmar B": {
+        "country": "",
+        "city": ""
+    },
+    "SC Schiltigheim B": {
+        "country": "",
+        "city": ""
+    },
+    "FC Mulhouse B": {
+        "country": "",
+        "city": ""
+    },
+    "US Turcs Bischwiller": {
+        "country": "",
+        "city": ""
+    },
+    "FC Herrlisheim": {
+        "country": "",
+        "city": ""
+    },
+    "AS Kilstett": {
+        "country": "",
+        "city": ""
+    },
+    "Racing Club Strasbourg B": {
+        "country": "",
+        "city": ""
+    },
+    "AJ Auxerre B": {
+        "country": "",
+        "city": ""
+    },
+    "SAS Epinal": {
+        "country": "",
+        "city": ""
+    },
+    "Lille Olympique SC B": {
+        "country": "",
+        "city": ""
+    },
+    "FC Vesoul": {
+        "country": "",
+        "city": ""
+    },
+    "FC Mulhouse": {
+        "country": "",
+        "city": ""
+    },
+    "FC Montceau Bourgogne": {
+        "country": "",
+        "city": ""
+    },
+    "FC Metz B": {
+        "country": "",
+        "city": ""
+    },
+    "RC Lens B": {
+        "country": "",
+        "city": ""
+    },
+    "AFC Compiegne": {
+        "country": "",
+        "city": ""
+    },
+    "USL Dunkerque": {
+        "country": "",
+        "city": ""
+    },
+    "US Senart-Moissy": {
+        "country": "",
+        "city": ""
+    },
+    "Olympique Noisy-le-Sec Banlieue 93": {
+        "country": "",
+        "city": ""
+    },
+    "Sainte-Genevieve Sports": {
+        "country": "",
+        "city": ""
+    },
+    "AS Nancy B": {
+        "country": "",
+        "city": ""
+    },
+    "AS Marck": {
+        "country": "",
+        "city": ""
+    },
+    "Jeanne d'Arc de Drancy": {
+        "country": "",
+        "city": ""
+    },
+    "US Annezin": {
+        "country": "",
+        "city": ""
+    },
+    "Enqin Les Mines": {
+        "country": "",
+        "city": ""
+    },
+    "UJA Alfortville": {
+        "country": "",
+        "city": ""
+    },
+    "Villemomble Sports": {
+        "country": "",
+        "city": ""
+    },
+    "Paris Saint-German B": {
+        "country": "",
+        "city": ""
+    },
+    "US Ivry": {
+        "country": "",
+        "city": ""
+    },
+    "FC Villefranche": {
+        "country": "",
+        "city": ""
+    },
+    "Champdieu Marcilly": {
+        "country": "",
+        "city": ""
+    },
+    "Louhans-Cuiseaux FC": {
+        "country": "",
+        "city": ""
+    },
+    "Football Bourg-en-Bresse": {
+        "country": "",
+        "city": ""
+    },
+    "Monts d'Or Azergues Chasselay": {
+        "country": "",
+        "city": ""
+    },
+    "Luzenac AP": {
+        "country": "",
+        "city": ""
+    },
+    "US Creteil-Lusitanos": {
+        "country": "",
+        "city": ""
+    },
+    "Vendee Poire-sur-Vie Football": {
+        "country": "",
+        "city": ""
+    },
+    "Etoile Frejus Saint-Raphael": {
+        "country": "",
+        "city": ""
+    },
+    "Red Star FC 93": {
+        "country": "",
+        "city": ""
+    },
+    "Chamois Niortais FC": {
+        "country": "",
+        "city": ""
+    },
+    "AS Saint-Maixent": {
+        "country": "",
+        "city": ""
+    },
+    "Paris FC": {
+        "country": "",
+        "city": ""
+    },
+    "US Orleans": {
+        "country": "",
+        "city": ""
+    },
+    "Yutz": {
+        "country": "",
+        "city": ""
+    },
+    "US Quevilly-Rouen Metropole": {
+        "country": "",
+        "city": ""
+    },
+    "Gazelec FC Ajaccio": {
+        "country": "",
+        "city": ""
+    },
+    "FCO Dijon": {
+        "country": "",
+        "city": ""
+    },
+    "Tours FC": {
+        "country": "",
+        "city": ""
+    },
+    "AC Arles-Avignon": {
+        "country": "",
+        "city": ""
+    },
+    "Plouzane AC": {
+        "country": "",
+        "city": ""
+    },
+    "JA Armentieres": {
+        "country": "",
+        "city": ""
+    },
+    "EA Guingamp": {
+        "country": "",
+        "city": ""
+    },
+    "Le Havre AC": {
+        "country": "",
+        "city": ""
+    },
+    "Stade Bordelais UC": {
+        "country": "",
+        "city": ""
+    },
+    "LB Chateauroux": {
+        "country": "",
+        "city": ""
+    },
+    "SCO Angers": {
+        "country": "",
+        "city": ""
+    },
+    "SC Bastia(match awarded to SC Bastia)": {
+        "country": "",
+        "city": ""
+    },
+    "SL Benfica": {
+        "country": "",
+        "city": ""
+    },
+    "Stade de Reims": {
+        "country": "",
+        "city": ""
+    },
+    "Olympiakos FC": {
+        "country": "",
+        "city": ""
+    },
+    "Evian Thonon Gaillard FC": {
+        "country": "",
+        "city": ""
+    },
+    "Stade Montois": {
+        "country": "",
+        "city": ""
+    },
+    "US Pontet Grand Avignon 84": {
+        "country": "",
+        "city": ""
+    },
+    "Pau FC": {
+        "country": "",
+        "city": ""
+    },
+    "GS Consolat": {
+        "country": "",
+        "city": ""
+    },
+    "AS Beziers": {
+        "country": "",
+        "city": ""
+    },
+    "Rodez AF": {
+        "country": "",
+        "city": ""
+    },
+    "Marignane FC": {
+        "country": "",
+        "city": ""
+    },
+    "Stade Balarucois": {
+        "country": "",
+        "city": ""
+    },
+    "ES Paulhan Pezenas": {
+        "country": "",
+        "city": ""
+    },
+    "La Grande Motte": {
+        "country": "",
+        "city": ""
+    },
+    "AF Lozere": {
+        "country": "",
+        "city": ""
+    },
+    "Rodeo Toulouse": {
+        "country": "",
+        "city": ""
+    },
+    "AS Beziers B": {
+        "country": "",
+        "city": ""
+    },
+    "Soleil Levant Nimes": {
+        "country": "",
+        "city": ""
+    },
+    "Castelnau Cres FC": {
+        "country": "",
+        "city": ""
+    },
+    "AS Frontignan AC": {
+        "country": "",
+        "city": ""
+    },
+    "Stade Olympique Anianais": {
+        "country": "",
+        "city": ""
+    },
+    "Stade Beaucairois": {
+        "country": "",
+        "city": ""
+    },
+    "CE Palavas": {
+        "country": "",
+        "city": ""
+    },
+    "AS Canet": {
+        "country": "",
+        "city": ""
+    },
+    "Baillargues St-Bres Valergues": {
+        "country": "",
+        "city": ""
+    },
+    "ASC Bas Vernet": {
+        "country": "",
+        "city": ""
+    },
+    "US Carcassonne": {
+        "country": "",
+        "city": ""
+    },
+    "USSA Aigues Mortes": {
+        "country": "",
+        "city": ""
+    },
+    "FC Corbieres": {
+        "country": "",
+        "city": ""
+    },
+    "FC Bagnols Pont": {
+        "country": "",
+        "city": ""
+    },
+    "ES Uzes": {
+        "country": "",
+        "city": ""
+    },
+    "OC Perpignan": {
+        "country": "",
+        "city": ""
+    },
+    "Narbonne Football": {
+        "country": "",
+        "city": ""
+    },
+    "US Monobletoise": {
+        "country": "",
+        "city": ""
+    },
+    "Canet Roussillon FC": {
+        "country": "",
+        "city": ""
+    },
+    "AS Lattes": {
+        "country": "",
+        "city": ""
+    },
+    "A Espoir et Culture St Gilles": {
+        "country": "",
+        "city": ""
+    },
+    "ASC Bas-Vernet": {
+        "country": "",
+        "city": ""
+    },
+    "Gallia C d'Uchaud": {
+        "country": "",
+        "city": ""
+    },
+    "SA St Mathieu de Treviers": {
+        "country": "",
+        "city": ""
+    },
+    "AEC St-Gilles": {
+        "country": "",
+        "city": ""
+    },
+    "AS Frontignan AS": {
+        "country": "",
+        "city": ""
+    },
+    "AS Atlas Paillade": {
+        "country": "",
+        "city": ""
+    },
+    "Olympiques Ales B": {
+        "country": "",
+        "city": ""
+    },
+    "Stade Olympiques Aimargues": {
+        "country": "",
+        "city": ""
+    },
+    "JSBCA Nimes": {
+        "country": "",
+        "city": ""
+    },
+    "AS Montarnaud": {
+        "country": "",
+        "city": ""
+    },
+    "PI Vendargues": {
+        "country": "",
+        "city": ""
+    },
+    "Olympique Ales B": {
+        "country": "",
+        "city": ""
+    },
+    "US Mauguio Carnon": {
+        "country": "",
+        "city": ""
+    },
+    "SW Aimargues": {
+        "country": "",
+        "city": ""
+    },
+    "RCO Agde B": {
+        "country": "",
+        "city": ""
+    },
+    "Saint-ClĂ©ment-Montferrier": {
+        "country": "",
+        "city": ""
+    },
+    "La Clermontaise": {
+        "country": "",
+        "city": ""
+    },
+    "AS Saint-Privat": {
+        "country": "",
+        "city": ""
+    },
+    "Elne FC": {
+        "country": "",
+        "city": ""
+    },
+    "US Lunel-Vielloise": {
+        "country": "",
+        "city": ""
+    },
+    "FC Villedubert": {
+        "country": "",
+        "city": ""
+    },
+    "Entente St Clement Montferrier": {
+        "country": "",
+        "city": ""
+    },
+    "AS Fabregues": {
+        "country": "",
+        "city": ""
+    },
+    "US Minervois": {
+        "country": "",
+        "city": ""
+    },
+    "Lattes": {
+        "country": "",
+        "city": ""
+    },
+    "FC Sete 34 B": {
+        "country": "",
+        "city": ""
+    },
+    "AS Perpignan Mediterranee": {
+        "country": "",
+        "city": ""
+    },
+    "FC St Esteve": {
+        "country": "",
+        "city": ""
+    },
+    "US Conques": {
+        "country": "",
+        "city": ""
+    },
+    "MJC Gruissan": {
+        "country": "",
+        "city": ""
+    },
+    "FC Briolet": {
+        "country": "",
+        "city": ""
+    },
+    "St Laurent La Salanque": {
+        "country": "",
+        "city": ""
+    },
+    "Carcassonne B": {
+        "country": "",
+        "city": ""
+    },
+    "OC Saleilles": {
+        "country": "",
+        "city": ""
+    },
+    "Sporting Perpignan Nord": {
+        "country": "",
+        "city": ""
+    },
+    "Castelnaudary": {
+        "country": "",
+        "city": ""
+    },
+    "Canet Roussillon B": {
+        "country": "",
+        "city": ""
+    },
+    "Trebes FC": {
+        "country": "",
+        "city": ""
+    },
+    "Perpignan FC Bas Vernet": {
+        "country": "",
+        "city": ""
+    },
+    "St Balarucois": {
+        "country": "",
+        "city": ""
+    },
+    "UF Lezignanais": {
+        "country": "",
+        "city": ""
+    },
+    "ASMPV Montarnaud": {
+        "country": "",
+        "city": ""
+    },
+    "Pezens Usa": {
+        "country": "",
+        "city": ""
+    },
+    "St Laurent": {
+        "country": "",
+        "city": ""
+    },
+    "St Aimargues": {
+        "country": "",
+        "city": ""
+    },
+    "US Beziers": {
+        "country": "",
+        "city": ""
+    },
+    "JS Chemin Bas d'Avignon": {
+        "country": "",
+        "city": ""
+    },
+    "Olympique St-Andre de Sangonis": {
+        "country": "",
+        "city": ""
+    },
+    "Arceaux-Football Montpellier": {
+        "country": "",
+        "city": ""
+    },
+    "Avenir Sportif Rousson": {
+        "country": "",
+        "city": ""
+    },
+    "Rodez-Aveyron B": {
+        "country": "",
+        "city": ""
+    },
+    "SC Anduze": {
+        "country": "",
+        "city": ""
+    },
+    "Meze Stade FC": {
+        "country": "",
+        "city": ""
+    },
+    "Olympique St Andre de Sangonis": {
+        "country": "",
+        "city": ""
+    },
+    "Montauban FC": {
+        "country": "",
+        "city": ""
+    },
+    "Olympique Ales": {
+        "country": "",
+        "city": ""
+    },
+    "FC Saint-Louis Neuweg": {
+        "country": "",
+        "city": ""
+    },
+    "ESTAC Troyes": {
+        "country": "",
+        "city": ""
+    },
+    "Le Puy Foot 43 Auvergne": {
+        "country": "",
+        "city": ""
+    },
+    "Stade Brestois 29": {
+        "country": "",
+        "city": ""
+    },
+    "Grenoble Foot 38": {
+        "country": "",
+        "city": ""
+    },
+    "ES Marsouins Bretignolles-Brem": {
+        "country": "",
+        "city": ""
+    },
+    "CS Feytiat": {
+        "country": "",
+        "city": ""
+    },
+    "US Concarneau": {
+        "country": "",
+        "city": ""
+    },
+    "FC Alberes-Argeles": {
+        "country": "",
+        "city": ""
+    },
+    "US Avranches": {
+        "country": "",
+        "city": ""
+    },
+    "FC Bastia-Borgo": {
+        "country": "",
+        "city": ""
+    },
+    "Marssac SRDT": {
+        "country": "",
+        "city": ""
+    },
+    "FC Villefranche Beaujolais": {
+        "country": "",
+        "city": ""
+    },
+    "FC Limonest Saint-Didier": {
+        "country": "",
+        "city": ""
+    },
+    "AS Prix Les Mezieres": {
+        "country": "",
+        "city": ""
+    },
+    "Montlucon Football": {
+        "country": "",
+        "city": ""
+    },
+    "Atalanta Bergamasca Calcio": {
+        "country": "",
+        "city": ""
+    },
+    "RB Leipzig": {
+        "country": "",
+        "city": ""
+    },
+    "FC Sevilla": {
+        "country": "",
+        "city": ""
+    },
+    "TSG 1899 Hoffenheim": {
+        "country": "",
+        "city": ""
+    },
+    "Lokomotiv Moscow": {
+        "country": "",
+        "city": ""
+    },
+    "FC Red Bull Salzburg": {
+        "country": "",
+        "city": ""
+    },
+    "1. FC Union Berlin": {
+        "country": "",
+        "city": ""
+    },
+    "VfL Wolfsburg": {
+        "country": "",
+        "city": ""
+    },
+    "SS Lazion": {
+        "country": "",
+        "city": ""
+    },
+    "SV Wehen Wiesbaden": {
+        "country": "",
+        "city": ""
+    },
+    "Bremer SV": {
+        "country": "",
+        "city": ""
+    },
+    "SpVgg Greuther Furth": {
+        "country": "",
+        "city": ""
+    },
+    "FC Dynamo Kiev": {
+        "country": "",
+        "city": ""
+    },
+    "SC Preussen 06 Munster": {
+        "country": "",
+        "city": ""
+    },
+    "Debreceni VSC": {
+        "country": "",
+        "city": ""
+    },
+    "Gyirmot SE": {
+        "country": "",
+        "city": ""
+    },
+    "Kisvarda FC": {
+        "country": "",
+        "city": ""
+    },
+    "MOL Fehervar FC": {
+        "country": "",
+        "city": ""
+    },
+    "Mezokovesd Zsory SE": {
+        "country": "",
+        "city": ""
+    },
+    "Budapest Honved": {
+        "country": "",
+        "city": ""
+    },
+    "Ujpest FC": {
+        "country": "",
+        "city": ""
+    },
+    "Bekescsaba 1912 Elore SE": {
+        "country": "",
+        "city": ""
+    },
+    "Puskas Akademia FC": {
+        "country": "",
+        "city": ""
+    },
+    "Paksi FC": {
+        "country": "",
+        "city": ""
+    },
+    "Zalaegerszegi TE": {
+        "country": "",
+        "city": ""
+    },
+    "MTK Budapest FC": {
+        "country": "",
+        "city": ""
+    },
+    "Szeged-Csanád Grosics Akadémia": {
+        "country": "",
+        "city": ""
+    },
+    "Szentlorinc SE": {
+        "country": "",
+        "city": ""
+    },
+    "Dorogi FC": {
+        "country": "",
+        "city": ""
+    },
+    "Bekescsaba 1912 Elore": {
+        "country": "",
+        "city": ""
+    },
+    "Budafoki MTE": {
+        "country": "",
+        "city": ""
+    },
+    "Credobus Mosonmagyarovar": {
+        "country": "",
+        "city": ""
+    },
+    "HR-Rent Kozarmisleny": {
+        "country": "",
+        "city": ""
+    },
+    "Diosgyori VTK": {
+        "country": "",
+        "city": ""
+    },
+    "Tiszakescke LC": {
+        "country": "",
+        "city": ""
+    },
+    "Kecskemeti TE": {
+        "country": "",
+        "city": ""
+    },
+    "Vasas SC": {
+        "country": "",
+        "city": ""
+    },
+    "Royale Union Saint-Gilloise": {
+        "country": "",
+        "city": ""
+    },
+    "BK Hacken": {
+        "country": "",
+        "city": ""
+    },
+    "1. FC Heidenheim 1846": {
+        "country": "",
+        "city": ""
+    },
+    "Molde FK": {
+        "country": "",
+        "city": ""
+    },
+    "Qarabag FK": {
+        "country": "",
+        "city": ""
+    },
+    "SC Freiburg": {
+        "country": "",
+        "city": ""
+    },
+    "SV Sandhausen": {
+        "country": "",
+        "city": ""
+    },
+    "BK Haken": {
+        "country": "",
+        "city": ""
+    },
+    "Bayer 04 Levekusen": {
+        "country": "",
+        "city": ""
+    },
+    "SC Paderborn 07": {
+        "country": "",
+        "city": ""
+    },
+    "FC Augsburg": {
+        "country": "",
+        "city": ""
+    },
+    "Torino FC": {
+        "country": "",
+        "city": ""
+    },
+    "Parma Calcio 1913": {
+        "country": "",
+        "city": ""
+    },
+    "Venezia FC": {
+        "country": "",
+        "city": ""
+    },
+    "ACF Forentina": {
+        "country": "",
+        "city": ""
+    },
+    "AC Monza": {
+        "country": "",
+        "city": ""
+    },
+    "Como 1907": {
+        "country": "",
+        "city": ""
+    },
+    "Hellas Verona FC": {
+        "country": "",
+        "city": ""
+    },
+    "Empoli FC": {
+        "country": "",
+        "city": ""
+    },
+    "US Lecce": {
+        "country": "",
+        "city": ""
+    },
+    "CF Pachuca": {
+        "country": "",
+        "city": ""
+    },
+    "Club Deportivo Minera": {
+        "country": "",
+        "city": ""
+    },
+    "Girona FC": {
+        "country": "",
+        "city": ""
+    },
+    "Fluminese FC": {
+        "country": "",
+        "city": ""
+    },
+    "Mamelodi Sundowns": {
+        "country": "",
+        "city": ""
+    },
+    "Ulsan HD FC": {
+        "country": "",
+        "city": ""
+    },
+    "CF Monterrey": {
+        "country": "",
+        "city": ""
+    },
+    "Pafos FC": {
+        "country": "",
+        "city": ""
+    },
+    "Club Brugge KV": {
+        "country": "",
+        "city": ""
+    }
+}
