@@ -54110,5 +54110,25 @@
         "Competition": "English Premier League",
         "Venue": "Villa Park, Birmingham",
         "Winner": "Aston Villa"
+    },
+    {
+        "Match no.": "5412",
+        "Date of match": "27/12/2025",
+        "Home": "Chelsea",
+        "Score": "1-2",
+        "Away": "Aston Villa",
+        "Competition": "English Premier League",
+        "Venue": "Stamford Bridge, London",
+        "Winner": "Aston Villa"
+    },
+    {
+        "Match no.": "5413",
+        "Date of match": "30/12/2025",
+        "Home": "Arsenal",
+        "Score": "4-1",
+        "Away": "Aston Villa",
+        "Competition": "English Premier League",
+        "Venue": "Emirates Stadium, London",
+        "Winner": "Arsenal"
     }
 ]
