@@ -1,113 +1,52 @@
 import MatchCard from "../components/MatchCard";
+import postgres from "postgres";
 
-const matches = [
-  {
-    matchId: 5426,
-    date: "March 7th, 2026",
-    homeTeam: "Newcastle United F.C.",
-    awayTeam: "Manchester City F.C.",
-    homeLogo:
-      "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_Logo.svg",
-    awayLogo:
-      "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
-    homeScore: 2,
-    awayScore: 1,
-    competition: "England - FA Cup",
-    stadium: "St James' Park",
-    isFeatured: true,
-  },
-  {
-    matchId: 5427,
-    date: "March 10th, 2026",
-    homeTeam: "Newcastle United F.C.",
-    awayTeam: "FC Barcelona",
-    homeLogo:
-      "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_Logo.svg",
-    awayLogo:
-      "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-    homeScore: 0,
-    awayScore: 3,
-    competition: "Europe - UCL",
-    stadium: "St James' Park",
-    isFeatured: false,
-  },
-  {
-    matchId: 5428,
-    date: "March 11th, 2026",
-    homeTeam: "Real Madrid C. F.",
-    awayTeam: "Manchester City F.C.",
-    homeLogo:
-      "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-    awayLogo:
-      "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
-    homeScore: 3,
-    awayScore: 2,
-    competition: "Europe - UCL",
-    stadium: "Santiago Bernabéu",
-    isFeatured: false,
-  },
-  {
-    matchId: 5429,
-    date: "March 14th, 2026",
-    homeTeam: "West Ham United",
-    awayTeam: "Manchester City F.C.",
-    homeLogo:
-      "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
-    awayLogo:
-      "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
-    homeScore: 1,
-    awayScore: 4,
-    competition: "England - Premier League",
-    stadium: "London Stadium",
-    isFeatured: false,
-  },
-  {
-    matchId: 5430,
-    date: "March 14th, 2026",
-    homeTeam: "Chelsea F.C.",
-    awayTeam: "Newcastle United",
-    homeLogo: "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
-    awayLogo:
-      "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_Logo.svg",
-    homeScore: 2,
-    awayScore: 2,
-    competition: "England - Premier League",
-    stadium: "Stamford Bridge",
-    isFeatured: false,
-  },
-  {
-    matchId: 5431,
-    date: "March 14th, 2026",
-    homeTeam: "Real Madrid C. F.",
-    awayTeam: "Elche C. F.",
-    homeLogo:
-      "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-    awayLogo:
-      "https://upload.wikimedia.org/wikipedia/commons/e/e0/Elche_CF_logo.svg",
-    homeScore: 5,
-    awayScore: 0,
-    competition: "Spain - La Liga",
-    stadium: "Santiago Bernabéu",
-    isFeatured: false,
-  },
-  {
-    matchId: 5432,
-    date: "March 15th, 2026",
-    homeTeam: "FC Barcelona",
-    awayTeam: "FC Sevilla",
-    homeLogo:
-      "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-    awayLogo:
-      "https://upload.wikimedia.org/wikipedia/en/3/3b/Sevilla_FC_logo.svg",
-    homeScore: 3,
-    awayScore: 1,
-    competition: "Spain - La Liga",
-    stadium: "Camp Nou",
-    isFeatured: false,
-  },
-];
+const sql = postgres(process.env.POSTGRES_URL!, { ssl: "require" });
 
-export default function MatchList() {
+export default async function MatchList() {
+  const dbMatches = await sql`
+    SELECT 
+      m.id as "matchId", 
+      m.date, 
+      hc.name as "homeTeam", 
+      ac.name as "awayTeam", 
+      m.home_goals as "homeScore", 
+      m.away_goals as "awayScore", 
+      c.name as "competition", 
+      m.round,
+      s.name as "stadium"
+    FROM matches m
+    LEFT JOIN clubs hc ON m.home_club_id = hc.id
+    LEFT JOIN clubs ac ON m.away_club_id = ac.id
+    LEFT JOIN competitions c ON m.competition_id = c.id
+    LEFT JOIN stadiums s ON m.stadium_id = s.id
+    ORDER BY CAST(m.id AS INTEGER) DESC
+    LIMIT 50;
+  `;
+
+  const matches = dbMatches.map((row) => {
+    // Construct competition string with round if available
+    let compString = row.competition || "Unknown Competition";
+    if (row.round) {
+      compString += ` - ${row.round}`;
+    }
+
+    return {
+      matchId: Number(row.matchId),
+      date: row.date,
+      homeTeam: row.homeTeam || "Unknown",
+      awayTeam: row.awayTeam || "Unknown",
+      // Placeholder logos since they aren't in the DB yet
+      homeLogo: "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+      awayLogo: "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+      homeScore: row.homeScore ?? 0,
+      awayScore: row.awayScore ?? 0,
+      competition: compString,
+      stadium: row.stadium || "Unknown Stadium",
+      isFeatured: false,
+    };
+  });
+
   return (
     <div>
       {/* Page Header */}
