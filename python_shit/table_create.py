@@ -147,78 +147,101 @@ england = ["London", "Liverpool", "Birmingham", "Sheffield", "Manchester", "Blac
 
 barcelona_count = {}
 
-for match in data:
-    if match['Home'] in alt_names:
-        home = alt_names[match['Home']]
-    else:
-        home = match['Home']
-
-    if match['Away'] in alt_names:
-        away = alt_names[match['Away']]
-    else:
-        away = match['Away']
-
-    city = None
-    if match['Venue'] in ['London', 'Oxford', 'Bingen', 'Homburg']:
-        city = match['Venue']
-
-    if ',' not in match['Venue'] and city is None:
-        if match['Venue'] != 'tbc' and match['Venue'] != 'to be confirmed' and match['Venue'] != "":
-            print(match['Venue'])
-        print(match)
-        continue
-
-    if city is None:
-        city = match['Venue'].split(",")[-1][1:]
-
-    if city == "Beograd":
-        city = "Belgrade"
-    if city in ["Turkey", "Catalonia", "USA", "Saudi Arabia"]:
-        city = match['Venue'].split(",")[1][1:]
-
-    if city in england:
-        continue
-
-    if city not in cities_count:
-        cities_count[city] = 1
-    else:
-        cities_count[city] += 1
-
-    if city == 'London':
-        if match['Venue'] not in london_count:
-            london_count[match['Venue']] = 1
-        else:
-            london_count[match['Venue']] += 1
-
-    # if city == 'Barcelona':
-    #     if match['Venue'] not in barcelona_count:
-    #         barcelona_count[match['Venue']] = 1
-    #     else:
-    #         barcelona_count[match['Venue']] += 1
-
-    if city == 'Madrid':
-        if match['Home'] not in barcelona_count:
-            barcelona_count[match['Home']] = 1
-        else:
-            barcelona_count[match['Home']] += 1
-
-cities_count = winners_sorted(cities_count)
-london_count = winners_sorted(london_count)
-barcelona_count = winners_sorted(barcelona_count)
-# print(cities_count)
-
-i = 1
-for city in cities_count.keys():
-    print(str(i) + ". " + city + " - " + str(cities_count[city]))
-    i += 1
-
-print('--------------------------------')
+# for match in data:
+#     if match['Home'] in alt_names:
+#         home = alt_names[match['Home']]
+#     else:
+#         home = match['Home']
+#
+#     if match['Away'] in alt_names:
+#         away = alt_names[match['Away']]
+#     else:
+#         away = match['Away']
+#
+#     city = None
+#     if match['Venue'] in ['London', 'Oxford', 'Bingen', 'Homburg']:
+#         city = match['Venue']
+#
+#     if ',' not in match['Venue'] and city is None:
+#         if match['Venue'] != 'tbc' and match['Venue'] != 'to be confirmed' and match['Venue'] != "":
+#             print(match['Venue'])
+#         print(match)
+#         continue
+#
+#     if city is None:
+#         city = match['Venue'].split(",")[-1][1:]
+#
+#     if city == "Beograd":
+#         city = "Belgrade"
+#     if city in ["Turkey", "Catalonia", "USA", "Saudi Arabia"]:
+#         city = match['Venue'].split(",")[1][1:]
+#
+#     if city in england:
+#         continue
+#
+#     if city not in cities_count:
+#         cities_count[city] = 1
+#     else:
+#         cities_count[city] += 1
+#
+#     if city == 'London':
+#         if match['Venue'] not in london_count:
+#             london_count[match['Venue']] = 1
+#         else:
+#             london_count[match['Venue']] += 1
+#
+#     # if city == 'Barcelona':
+#     #     if match['Venue'] not in barcelona_count:
+#     #         barcelona_count[match['Venue']] = 1
+#     #     else:
+#     #         barcelona_count[match['Venue']] += 1
+#
+#     if city == 'Madrid':
+#         if match['Home'] not in barcelona_count:
+#             barcelona_count[match['Home']] = 1
+#         else:
+#             barcelona_count[match['Home']] += 1
+#
+# cities_count = winners_sorted(cities_count)
+# london_count = winners_sorted(london_count)
+# barcelona_count = winners_sorted(barcelona_count)
+# # print(cities_count)
+#
 # i = 1
-# for london_venue in london_count.keys():
-#     print(str(i) + ". " + london_venue + " - " + str(london_count[london_venue]))
+# for city in cities_count.keys():
+#     print(str(i) + ". " + city + " - " + str(cities_count[city]))
+#     i += 1
+#
+# print('--------------------------------')
+# # i = 1
+# # for london_venue in london_count.keys():
+# #     print(str(i) + ". " + london_venue + " - " + str(london_count[london_venue]))
+# #     i += 1
+#
+# i = 1
+# for barcelona_venue in barcelona_count.keys():
+#     print(str(i) + ". " + barcelona_venue + " - " + str(barcelona_count[barcelona_venue]))
 #     i += 1
 
-i = 1
-for barcelona_venue in barcelona_count.keys():
-    print(str(i) + ". " + barcelona_venue + " - " + str(barcelona_count[barcelona_venue]))
-    i += 1
+# matchup_dict = {}
+#
+# for match in data:
+#     if match['Home'] in alt_names:
+#         home = alt_names[match['Home']]
+#     else:
+#         home = match['Home']
+#
+#     if match['Away'] in alt_names:
+#         away = alt_names[match['Away']]
+#     else:
+#         away = match['Away']
+#
+#     matchup = "-".join(sorted([home, away]))
+#     if matchup in matchup_dict:
+#         matchup_dict[matchup] += 1
+#     else:
+#         matchup_dict[matchup] = 1
+#
+# matchup_dict = winners_sorted(matchup_dict)
+# print(matchup_dict)
+# print(matchup_dict["Manchester City-Real Madrid"])

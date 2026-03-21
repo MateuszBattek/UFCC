@@ -1,26 +1,56 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --bg-page: #C5D3E8;
+  --bg-card: #FFFFFF;
+  --border-card: #4A6FA5;
+  --bg-highlight: #F0C34E;
+  --text-primary: #2C3E6B;
+  --text-secondary: #4A6FA5;
+  --bg-sidebar: #2C3E6B;
+  --text-nav: #FFFFFF;
+  --nav-hover: #4A6FA5;
+  --nav-active: #1A2A4A;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-background: var(--bg-page);
+  --color-foreground: var(--text-primary);
+  --color-card: var(--bg-card);
+  --color-card-border: var(--border-card);
+  --color-highlight: var(--bg-highlight);
+  --color-sidebar: var(--bg-sidebar);
+  --color-nav-text: var(--text-nav);
+  --color-nav-hover: var(--nav-hover);
+  --color-nav-active: var(--nav-active);
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
+  background: var(--bg-page);
+  color: var(--text-primary);
+  /* font-family: Georgia, 'Times New Roman', serif; */
   font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-page);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-card);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-primary);
 }

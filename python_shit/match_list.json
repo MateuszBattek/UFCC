@@ -54230,5 +54230,35 @@
     "Competition": "English Premier League",
     "Venue": "London Stadium, London",
     "Winner": "Tie"
+  },
+  {
+    "Match no.": "5424",
+    "Date of match": "23/2/2026",
+    "Home": "Everton",
+    "Score": "0-1",
+    "Away": "Manchester United",
+    "Competition": "English Premier League",
+    "Venue": "Hill Dickinson Stadium, Liverpool",
+    "Winner": "Manchester United"
+  },
+  {
+    "Match no.": "5425",
+    "Date of match": "1/3/2026",
+    "Home": "Manchester United",
+    "Score": "2-1",
+    "Away": "Crystal Palace",
+    "Competition": "English Premier League",
+    "Venue": "Old Trafford, Manchester",
+    "Winner": "Manchester United"
+  },
+  {
+    "Match no.": "5426",
+    "Date of match": "4/3/2026",
+    "Home": "Newcastle United",
+    "Score": "2-1",
+    "Away": "Manchester United",
+    "Competition": "English Premier League",
+    "Venue": "St James' Park, Newcastle",
+    "Winner": "Manchester United"
   }
 ]
