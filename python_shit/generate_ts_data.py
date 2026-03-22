@@ -96,7 +96,7 @@ def build_clubs_and_alt_names(matches: list[dict], alt_map: dict[str, str],
         cid = make_uuid()
         name_to_id[name] = cid
         country, city = _lookup_geo(name, canonical_to_raws.get(name, set()), geo_map)
-        clubs.append({"id": cid, "name": name, "country": country, "city": city})
+        clubs.append({"id": cid, "name": name, "country": country, "city": city, "logo": None})
 
     alt_entries: list[dict] = []
     for alt_name, canonical in sorted(alt_map.items()):
@@ -121,7 +121,6 @@ def build_stadiums(matches: list[dict], geo_map: dict[str, dict], city_to_countr
     stadium_to_id = {}
 
     for raw_venue in sorted(stadiums_set):
-        # E.g. "West Ham Park, London" -> name="West Ham Park", city="London"
         parts = [p.strip() for p in raw_venue.split(",")]
         
         if len(parts) > 1:
@@ -424,6 +423,7 @@ def emit_clubs(clubs: list[dict]) -> str:
         lines.append(f"{_indent(2)}name: '{escape_ts_string(c['name'])}',")
         lines.append(f"{_indent(2)}country: {_ts_nullable_string(c['country'])},")
         lines.append(f"{_indent(2)}city: {_ts_nullable_string(c['city'])},")
+        lines.append(f"{_indent(2)}logo: {_ts_nullable_string(c['logo'])},")
         lines.append(f"{_indent(1)}}},")
     lines.append("];")
     return "\n".join(lines)

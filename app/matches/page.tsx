@@ -9,7 +9,9 @@ export default async function MatchList() {
       m.id as "matchId", 
       m.date, 
       hc.name as "homeTeam", 
+      hc.logo as "homeLogo",
       ac.name as "awayTeam", 
+      ac.logo as "awayLogo",
       m.home_goals as "homeScore", 
       m.away_goals as "awayScore", 
       c.name as "competition", 
@@ -21,7 +23,7 @@ export default async function MatchList() {
     LEFT JOIN competitions c ON m.competition_id = c.id
     LEFT JOIN stadiums s ON m.stadium_id = s.id
     ORDER BY CAST(m.id AS INTEGER) DESC
-    LIMIT 50;
+    LIMIT 100;
   `;
 
   const matches = dbMatches.map((row) => {
@@ -36,11 +38,14 @@ export default async function MatchList() {
       date: row.date,
       homeTeam: row.homeTeam || "Unknown",
       awayTeam: row.awayTeam || "Unknown",
-      // Placeholder logos since they aren't in the DB yet
-      homeLogo: "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
-      awayLogo: "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
-      homeScore: row.homeScore ?? 0,
-      awayScore: row.awayScore ?? 0,
+      homeLogo:
+        row.homeLogo ||
+        "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+      awayLogo:
+        row.awayLogo ||
+        "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+      homeScore: row.homeScore ?? "?",
+      awayScore: row.awayScore ?? "?",
       competition: compString,
       stadium: row.stadium || "Unknown Stadium",
       isFeatured: false,

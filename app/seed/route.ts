@@ -10,13 +10,14 @@ async function seedClubs() {
       id UUID DEFAULT uuid_generate_v4() PRIMARY KEY,
       name VARCHAR(255) NOT NULL,
       country VARCHAR(255),
-      city VARCHAR(255)
+      city VARCHAR(255),
+      logo VARCHAR(255)
     );
   `;
   const insertedClubs = await Promise.all(
     clubs.map((club) => sql`
-      INSERT INTO clubs (id, name, country, city)
-      VALUES (${club.id}, ${club.name}, ${club.country}, ${club.city})
+      INSERT INTO clubs (id, name, country, city, logo)
+      VALUES (${club.id}, ${club.name}, ${club.country}, ${club.city}, ${club.logo})
       ON CONFLICT (id) DO NOTHING;
     `)
   );
