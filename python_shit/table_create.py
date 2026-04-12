@@ -39,19 +39,19 @@ def winners_sorted(winners_count):
 
 winners_count = winners_sorted(winners_count)
 # print(winners_count)
-# for match in data:
-#     if match['Winner'] == 'Aston Villa' or match['Winner'] == 'Blackburn Rovers':
-#         print(match['Match no.'] + ' ' + match['Winner'] + ' ' + match['Date of match'])
+prev_winner = None
+for match in data:
+    if match['Winner'] in alt_names:
+        winner = alt_names[match['Winner']]
+    else:
+        winner = match['Winner']
 
-# prev_winner = None
-# for match in data:
-#     if match['Winner'] == 'FC Barcelona' and prev_winner != 'FC Barcelona':
-#         print(match['Date of match'])
-#     if match['Winner'] != 'Tie':
-#         prev_winner = match['Winner']
+    if winner != 'Tie':
+        if prev_winner != winner:
+            print(match['Date of match'] + " - " + winner)
+        prev_winner = winner
 
 # print(list(winners_count.keys()))
-
 
 # for team in list(winners_count.keys()):
 #     if team in winners_from_website_list:
@@ -223,7 +223,7 @@ barcelona_count = {}
 #     print(str(i) + ". " + barcelona_venue + " - " + str(barcelona_count[barcelona_venue]))
 #     i += 1
 
-# matchup_dict = {}
+# games_count_dict = {}
 #
 # for match in data:
 #     if match['Home'] in alt_names:
@@ -236,12 +236,98 @@ barcelona_count = {}
 #     else:
 #         away = match['Away']
 #
-#     matchup = "-".join(sorted([home, away]))
-#     if matchup in matchup_dict:
-#         matchup_dict[matchup] += 1
-#     else:
-#         matchup_dict[matchup] = 1
+#     matchup = " - ".join(sorted([home,away]))
 #
-# matchup_dict = winners_sorted(matchup_dict)
-# print(matchup_dict)
-# print(matchup_dict["Manchester City-Real Madrid"])
+#     if matchup in games_count_dict:
+#         games_count_dict[matchup] += 1
+#     else:
+#         games_count_dict[matchup] = 1
+#
+#
+# games_count_dict = winners_sorted(games_count_dict)
+# # print(games_count_dict)
+#
+# place = 1
+# last_count = None
+# for i, result in enumerate(games_count_dict.items()):
+#     if result[1] != last_count:
+#         place = i + 1
+#         last_count = result[1]
+#     print(str(place) + ". " + result[0] + ": " + str(result[1]))
+
+# def addToWinrateDict(club, isWon):
+#     if isWon:
+#         if club not in winrate_dict:
+#             winrate_dict[club] = {'matches': 1, 'wins': 1}
+#         else:
+#             winrate_dict[club]['matches'] += 1
+#             winrate_dict[club]['wins'] += 1
+#
+#     else:
+#         if club not in winrate_dict:
+#             winrate_dict[club] = {'matches': 1, 'wins': 0}
+#         else:
+#             winrate_dict[club]['matches'] += 1
+#
+#
+# winrate_dict = {}
+# current_champion = None
+#
+# for match in data:
+#     if match['Home'] in alt_names:
+#         home = alt_names[match['Home']]
+#     else:
+#         home = match['Home']
+#
+#     if match['Away'] in alt_names:
+#         away = alt_names[match['Away']]
+#     else:
+#         away = match['Away']
+#
+#     if match['Winner'] in alt_names:
+#         winner = alt_names[match['Winner']]
+#     else:
+#         winner = match['Winner']
+#
+#     if home != current_champion:
+#         challenger = home
+#     else:
+#         challenger = away
+#
+#     if challenger == winner:
+#         addToWinrateDict(challenger, True)
+#     else:
+#         addToWinrateDict(challenger, False)
+#
+#     if current_champion is None or winner != "Tie":
+#         current_champion = winner
+#
+# for club in winrate_dict:
+#     winrate_dict[club]['winrate'] = winrate_dict[club]['wins'] / winrate_dict[club]['matches']
+#
+#
+# def winrate_sorted(winrate_dict):
+#     sorted_list_of_tuples = sorted(
+#         winrate_dict.items(),
+#         key=lambda item: (item[1]['winrate'], item[1]['matches']),
+#         reverse=True
+#     )
+#
+#     sorted_winrate = dict(sorted_list_of_tuples)
+#
+#     return sorted_winrate
+#
+#
+# winrate_dict = {k: v for k, v in winrate_dict.items() if v['matches'] >= 10}
+# winrate_dict = winrate_sorted(winrate_dict)
+#
+# place = 1
+# last_winrate = None
+# last_matches = None
+# for i, club in enumerate(winrate_dict):
+#     if winrate_dict[club]['winrate'] != last_winrate or winrate_dict[club]['matches'] != last_matches:
+#         place = i + 1
+#         last_winrate = winrate_dict[club]['winrate']
+#         last_matches = winrate_dict[club]['matches']
+#     print(str(place) + ". " + club + " (" + str(winrate_dict[club]['wins']) + "/" +
+#           str(winrate_dict[club]['matches']) + ")")

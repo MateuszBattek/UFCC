@@ -6,8 +6,9 @@ with open("match_list.json", mode="r", encoding="utf-8") as read_file:
 with open("alt_names.json", mode="r", encoding="utf-8") as read_file:
     alt_names = json.load(read_file)
 
+with open("teams_geo_info.json", mode="r", encoding="utf-8") as read_file:
+    teams_geo_info = json.load(read_file)
 
-teams_geo_info = {}
 
 for match in data:
     home = match['Home']
