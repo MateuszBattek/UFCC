@@ -1728,7 +1728,7 @@
         "city": "Dundee"
     },
     "Celtic": {
-        "country": "Sctoland",
+        "country": "Scotland",
         "city": "Glasgow"
     },
     "Heart of Midlothian": {
@@ -1736,11 +1736,11 @@
         "city": "Edinburgh"
     },
     "Motherwell": {
-        "country": "Sctoland",
+        "country": "Scotland",
         "city": "Motherwell"
     },
     "Dundee": {
-        "country": "Sctoland",
+        "country": "Scotland",
         "city": "Dundee"
     },
     "Clydebank": {
@@ -2212,8 +2212,8 @@
         "city": "Salamanca"
     },
     "Ferencvaros TC": {
-        "country": "Hungary Budapest",
-        "city": ""
+        "country": "Hungary",
+        "city": "Budapest"
     },
     "Merida UD": {
         "country": "Spain",
@@ -3598,5 +3598,9 @@
     "ES Pays d'Uzes": {
         "country": "France",
         "city": "Uzes"
+    },
+    "tbc": {
+      "country": "tbc",
+      "city": "tbc"
     }
 }
